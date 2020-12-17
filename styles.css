@@ -5,6 +5,10 @@ nav ul {
 ul {
     list-style-type: none;
 }
+li {
+    background-color: khaki;
+    color: gray;
+}
 h1 {
     color: red;
     text-align: center;
