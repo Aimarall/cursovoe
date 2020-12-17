@@ -5,9 +5,13 @@ nav ul {
 ul {
     list-style-type: none;
 }
-li {
-    background-color: khaki;
-    color: gray;
+li {  
+    color: rgb(90, 90, 90);
+}
+a:hover {
+    background-color: gray;
+    color: rgb(255, 144, 144);
+    padding: 10px;
 }
 h1 {
     color: red;
