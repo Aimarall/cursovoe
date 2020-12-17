@@ -1,3 +1,10 @@
+nav ul {
+    justify-content: space-around;
+    display: flex;
+}
+ul {
+    list-style-type: none;
+}
 h1 {
     color: red;
     text-align: center;
