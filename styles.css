@@ -6,3 +6,10 @@ p {
     color: blue;
     text-align: center;
 }
+main {
+    background-color: rgb(156, 156, 156);
+    color: rgb(214, 12, 147);
+    border: 1px yellow solid;
+    text-align: center;
+    padding: 10px;
+}
