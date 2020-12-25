@@ -444,4 +444,26 @@ td {
         width: 430px;
         height: 100px;
     }
+    .litigade {
+        text-align: center;
+    }
+    .section-4 {
+        margin-top: 6px;
+        text-align: center;
+        padding: 1px;
+    }
+    li {
+        margin-right: 10px;
+    }
+    .img-1 {
+        margin-right: -80px;
+    }
+    .img-2 {
+        margin-left: -10px;
+        margin-right: 40px;
+    }
+    .img-3 {    
+        margin-right: -11px;
+        margin-left: -10px;
+    }
 }
