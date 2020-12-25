@@ -445,6 +445,7 @@ td {
         height: 100px;
     }
     .litigade {
+        padding-left: -1px;
         text-align: center;
     }
     .section-4 {
@@ -465,5 +466,15 @@ td {
     .img-3 {    
         margin-right: -11px;
         margin-left: -10px;
+    }
+    .div-4 {
+        margin-top: 300px;
+        
+    }
+    .zagolovok {
+        margin-top: -180px;
+    }
+    .paragrahp {
+        margin-top: -100px;
     }
 }
