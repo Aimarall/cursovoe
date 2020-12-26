@@ -445,6 +445,7 @@ td {
         height: 100px;
     }
     .litigade {
+        padding-right: 150px;
         padding-left: -1px;
         text-align: center;
     }
@@ -454,7 +455,7 @@ td {
         padding: 1px;
     }
     li {
-        margin-right: 10px;
+        margin-right: 30px;
     }
     .img-1 {
         margin-right: -80px;
@@ -467,14 +468,13 @@ td {
         margin-right: -11px;
         margin-left: -10px;
     }
-    .div-4 {
-        margin-top: 300px;
-        
+    .button-4 {
+        margin-left: 180px;
     }
-    .zagolovok {
-        margin-top: -180px;
+    .button-5 {
+        margin-left: 180px;
     }
-    .paragrahp {
-        margin-top: -100px;
+    .section-3 {
+        width: 629px;
     }
 }
