@@ -214,6 +214,9 @@ textarea {
 .aside-2.button-2 {
     padding-bottom: 60px;
 }
+.aside-1 {
+    margin-top: 50px;
+}
 aside h1 {
     line-height: 29px;
     font-size: 31px;
@@ -366,7 +369,7 @@ button:hover {
 }
 .example {
     justify-content: center;
-    margin-top: 35px;
+    margin-top: 50px;
     display: flex;
 }
 .example-1 {
@@ -409,6 +412,67 @@ span {
     font-family: 'Poppins', sans-serif;
     color: rgb(255, 175, 25);
 }
+.examplee {
+    justify-content: center;
+    margin-bottom: 230px;
+    margin-top: 50px;
+    display: flex;
+}
+.block {
+    margin: 20px;
+    border-radius: 7px;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 20px;
+    padding-bottom: 35px;
+    text-align: left;
+    height: 250px;
+    width: 370px;
+    background-color: white;
+}
+.sirena-2 {
+    margin: 10px;
+}
+.sirena-3 {
+    padding-left: 25px;
+}
+.sirena-4 {
+    padding-left: 5px;
+    display: flex;
+}
+.sirena-5 {
+    margin-top: -110px;
+}
+.sirena-6 {
+    margin-top: -100px;
+}
+.sirena-7 {
+    font-weight: bold;
+    color: rgb(32, 32, 32);
+}
+.exampleee {
+    justify-content: center;
+    display: flex;
+}
+.rusalka-1 {
+    margin-top: 50px;
+    height: 380px;
+    margin-left: 40px;
+    width: 328px;
+    background-color: white;
+}
+.rusalka-2 {
+    margin-top: 0%;
+    margin-left: 0%;
+}
+.rusalka-4 {
+    font-size: 22px;
+    color: rgb(44, 43, 43);
+}
+.rusalka-5 {
+   font-weight: bold;
+}
 @media (max-width: 850px) {
     .button-2 {
         position: absolute;
@@ -443,11 +507,11 @@ span {
     }
     table th {
         padding: 4px;
-        border: 1px solid gray;
+        flex-direction: column;
     }
     table td {
         padding: 4px;
-        border: 1px solid gray;
+        flex-direction: column;
     }
     .input-2 {
         width: 70px;
@@ -503,6 +567,14 @@ span {
         margin-right: -110px;
     }
     .example {
+        margin: 20px;
+        flex-direction: column;
+    }
+    .examplee {
+        margin: 20px;
+        flex-direction: column;
+    }
+    .exampleee {
         margin: 20px;
         flex-direction: column;
     }
