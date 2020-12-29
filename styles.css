@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 .section-3 { 
-    background-image: url(./img1.png);
+    background-image: url(./img/img1.png);
     width: 80%;
     height: 800px;
 }
@@ -178,7 +178,7 @@ p {
 }
 main {
     width: 74%;
-    background-image: url(./img6.png);
+    background-image: url(./img/img6.png);
     padding: 70px 0 70px 110px;
 }
 main h1{
@@ -340,7 +340,7 @@ td {
     background-color: rgb(197, 150, 63);
     color: white;
     padding: 16px;
-    width: 150px;
+    width: 100px;
     font-size: 18px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -348,12 +348,12 @@ td {
 button:hover {
     background-color: rgb(0, 165, 0);
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
 }
 .input-2 {
     margin-right: -10px;
-    width: 200px;
+    width: 100px;
     height: 21px;
 }
 .div-3 {
@@ -534,7 +534,7 @@ span {
         text-align: center;
     }
     .section-3 { 
-        background-image: url(./img1.png);
+        
         width: 80%;
         height: 900px;
         flex-direction: column;
