@@ -7,8 +7,8 @@
 
 .section-3 { 
     background-image: url(./img/img1.png);
+    height: 820px;
     width: 80%;
-    height: 800px;
 }
 .section-4 {
     margin-right: 50px;
