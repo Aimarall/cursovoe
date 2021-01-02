@@ -63,7 +63,8 @@ li a {
     font-family: 'Quicksand', sans-serif;
 }
 .zagolovok {
-    line-height: 45px;
+    font-size: 60px;
+    line-height: 65px;
 }
 h1 {
     color: white;
@@ -74,7 +75,7 @@ h1 {
 }
 .section-5 {
     margin-left: 135px;
-    padding-top: 150px;
+    padding-top: 230px;
     padding-left: 30px;
     
 }
@@ -83,7 +84,7 @@ div.div-4 {
     padding: 20px;
     text-align: center;
     margin-right: 200px;
-    margin-top: -520px;
+    margin-top: -620px;
     float: right;
     background-color: rgb(255, 255, 255);
     height: 580px;
