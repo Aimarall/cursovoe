@@ -200,10 +200,21 @@ input {
     margin: 10px;
 }
 textarea {
-    margin-top: 1px;
-    margin-left: 10px;
     padding: 20px;
-    border-radius: 7px;
+
+    position: static;
+    width: 598px;
+    height: 140px;
+    left: 0px;
+    top: 140px;
+    
+    background: #F9F9F9;
+    /* muted-color */
+    
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
 }
 .aside-2 {
     margin-bottom: 20px;
