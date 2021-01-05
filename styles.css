@@ -103,6 +103,11 @@ div.div-4 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+input, textarea {
+    outline: none;
+    border: none;
+    border: solid 1px #f2f2f2;
+    }
 .input-select {
     border: 1px solid  rgb(214, 214, 214);
     background-color: rgb(230, 230, 230);
@@ -331,6 +336,7 @@ hr {
     border-bottom-color: rgb(0, 0, 102);
 }
 h4 {
+    margin-bottom: -10px;
     padding-top: 50px;
     font-size: 26px;
     color: white;
@@ -443,6 +449,11 @@ button {
 }
 span {
     color: gray;
+}
+.wolke-1 {
+    font-size: 18px;
+    letter-spacing: 0;
+    font-family: 'Work Sans', sans-serif;
 }
 .wolke-2 {
     font-size: 16px;
