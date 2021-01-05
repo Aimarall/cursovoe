@@ -329,7 +329,18 @@ footer {
     background: #252B42;
 }
 .glubina {
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    line-height: 1px;
     display: flex;
+    justify-content: space-around;
+}
+.glubina-1 {
+    margin: 5px;
+    line-height: 1px;
+    display: flex;
+    justify-content: space-around;
 }
 hr {
     margin-top: 50px;
