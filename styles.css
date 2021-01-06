@@ -130,7 +130,7 @@ input, textarea {
     background-color: rgb(58, 67, 133);
     color: white;
     height: 60px;
-    width: 310px;
+    width: 290px;
     font-size: 16px;
     border-radius: 7px;
 }
@@ -252,12 +252,9 @@ textarea {
 }
 .aside-2 {
     margin-bottom: 20px;
-    margin-left: 85px;
+    margin-left: 150px;
     display: flex;
     padding: 70px;
-}
-.aside-2.button-2 {
-    padding-bottom: 60px;
 }
 .aside-1 {
     margin-top: 50px;
@@ -305,7 +302,7 @@ button:hover {
 .button-2 {
     border: 1px solid rgb(197, 150, 63);
     margin-top: 24px;
-    margin-left: 500px;
+    margin-left: 760px;
     background-color: rgb(197, 150, 63);
     color: white;
     height: 63px;
@@ -377,7 +374,6 @@ footer {
 
 }
 hr {
-    width: 1270px;
     margin-left: 96px;
     margin-top: 50px;
     border-right-color: rgb(110, 110, 110);
