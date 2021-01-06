@@ -342,11 +342,14 @@ footer {
     background: #252B42;
 }
 .glubina {
+    color: rgb(228, 228, 228);
     display: flex;
 }
-
+.more-1 {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
 .more-2 {
-  
     padding: 17px;
     width: 170px;
     border-radius: 5px;
