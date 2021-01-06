@@ -361,9 +361,11 @@ footer {
 .more-2 {
     padding: 17px;
     width: 170px;
+    border: solid white 1px;
     border-radius: 5px;
 }
 .button-7 {
+    border: solid white 1px;
     margin-left: -30px;
     padding: 17px;
     height: 52px;
