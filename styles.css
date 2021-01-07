@@ -598,6 +598,9 @@ span {
         width: 430px;
         height: 100px;
     }
+    .theend {
+        padding-left: -250px;
+    }
     .litigade {
         padding-right: 550px;
         padding-left: -1px;
