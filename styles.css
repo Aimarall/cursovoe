@@ -96,7 +96,7 @@ div.div-4 {
     margin-left: -40px;
     width: 260px;
     border-radius: 7px;
-    border: 1px  rgb(214, 214, 214);
+    border: 1px rgb(214, 214, 214);
     background-color: rgb(230, 230, 230);
     height: 37px;
     padding-left: 30px;
@@ -537,6 +537,7 @@ span {
 .rusalka-6 {
     margin-top: -20px;
 }
+
 @media (max-width: 850px) {
     .aside-2 {
         padding-bottom: 100px;
@@ -547,6 +548,7 @@ span {
         width: 176px;
         margin-left: 20px;
         margin-top: 170px;
+        margin-bottom: auto;
     }
     select {
         margin: 10px;
@@ -572,14 +574,6 @@ span {
         display: flex;
         float: center;
     }
-    table th {
-        padding: 4px;
-        flex-direction: column;
-    }
-    table td {
-        padding: 4px;
-        flex-direction: column;
-    }
     .input-2 {
         width: 70px;
     }
@@ -588,24 +582,22 @@ span {
         border-radius: 5px;
     }
     .div-3 {
-        
         width: 430px;
         height: 100px;
     }
     .litigade {
-        padding-right: 150px;
+        padding-right: 550px;
         padding-left: -1px;
         text-align: center;
     }
     .section-3 { 
         width: 80%;
         height: 900px;
-        flex-direction: column;
     }
     .section-4 {
         margin-top: 6px;
         text-align: center;
-        padding: 1px;
+        padding: -2px;
     }
     .section-5 {
         margin-top: -50px;
@@ -642,10 +634,14 @@ span {
     .section-3 {
         width: 629px;
     }
-    .main {
-        height: 600px;
-        width: 100%;
-        margin-right: -110px;
+    main {
+        height: 800px;
+        width: 600px;
+        padding-right: -110px;
+    }
+    .mainn {
+        margin-top: -100px;
+        margin-left: -300px;
     }
     .example {
         margin: 20px;
@@ -662,4 +658,10 @@ span {
     .glubina {
         flex-direction: column;
     }
-}
+
+
+
+    
+  
+} 
+ 
