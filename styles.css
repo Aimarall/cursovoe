@@ -269,7 +269,7 @@ aside p {
     color: rgb(80, 74, 74);
 }
 button:hover {
-    background-color: rgb(170, 130, 56);
+    background-color: rgb(153, 117, 49);
 }
 .button-5:hover {
     background-color: rgb(233, 233, 233);
@@ -302,11 +302,12 @@ button:hover {
 .button-2 {
     border: 1px solid rgb(197, 150, 63);
     margin-top: 24px;
-    margin-left: 760px;
+    margin-right: 160px;
+    margin-left: auto;
     background-color: rgb(197, 150, 63);
     color: white;
-    height: 63px;
-    width: 176px;
+    height: 57px;
+    width: 170px;
     font-size: 18px;
     border-radius: 7px;
 }
