@@ -595,8 +595,9 @@ span {
         border-radius: 5px;
     }
     .div-3 {
-        width: 430px;
-        height: 100px;
+        margin-left: -70px;
+        width: 200px;
+        height: 120px;
     }
     .theend {
         padding-left: -250px;
