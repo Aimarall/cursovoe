@@ -568,8 +568,9 @@ span {
         border: solid gray;
     }
     .img-1 {
-        height: 350px;
-        width: 500px;
+        height: 150px;
+        width: 250px;
+        margin-right: 17px;
     }
     textarea {
         margin-left: 11px;
@@ -640,9 +641,13 @@ span {
         margin-right: 30px;
     }
     .img-1 {
+        margin-top: 180px;
         height: 150px;
         width: 250px;
         margin-right: 17px;
+    }
+    .div-1 {
+        height: 120px;
     }
     .div-2 {
         height: 240px;
