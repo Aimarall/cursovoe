@@ -544,6 +544,9 @@ span {
         margin-left: -10px;
         padding-bottom: 100px;
     }
+    .button-1 {
+        margin-left: -280px;
+    }
     .button-2 {
         position: absolute;
         justify-content: center;
@@ -569,6 +572,7 @@ span {
         width: 500px;
     }
     textarea {
+        margin-left: 11px;
         width: 277px;
     }
     footer {
