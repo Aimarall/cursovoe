@@ -541,15 +541,19 @@ span {
 }
 @media (max-width: 850px) {
     .aside-2 {
+        margin-left: -10px;
         padding-bottom: 100px;
     }
     .button-2 {
         position: absolute;
         justify-content: center;
         width: 176px;
-        margin-left: 20px;
-        margin-top: 170px;
+        margin-left: 10px;
+        margin-top: 210px;
         margin-bottom: auto;
+    }
+    .formm {
+        margin-left: -300px;
     }
     select {
         margin: 10px;
