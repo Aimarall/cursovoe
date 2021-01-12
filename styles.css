@@ -275,7 +275,7 @@ button:hover {
 }
 .button-5:hover {
     background-color: rgb(233, 233, 233);
-    color: rgb(1, 129, 1);
+    color: rgb(1, 99, 129);
 }
 .button-6:hover {
     background-color: rgb(47, 53, 104);
@@ -630,7 +630,10 @@ span {
         padding: -2px;
     }
     .section-5 {
-        margin-top: -50px;
+        margin-top: -220px;
+    }
+    div.book {
+        margin-bottom: -200px;
     }
     h1 {
         line-height: 35px;
