@@ -124,4 +124,34 @@ li a {
     flex-grow: 0;
     margin: 0px 35px;
  }
+ .first9 {
+    border: none;
+    margin-bottom: -20px;
+    font-size: 15px;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14px 36px;
+
+    position: static;
+    width: 182px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    /* primary-color */
+    background: #D0A144;
+    border-radius: 37px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+ }
+ .first9:focus {
+     outline: none;
+ }
+ .first9:hover {
+    background: #8b671f;
+ }
  
