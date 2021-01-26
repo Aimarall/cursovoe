@@ -22,12 +22,12 @@ header {
     background-size: 100%; /* Современные браузеры */
     
 }
-.first {
+.first1 {
     position: absolute;
     width: 100px;
     height: 32px;
-    left: 0px;
-    top: 13px;
+    left: 265px;
+    top: 42px;
 
     font-family: Martel;
     font-style: normal;
@@ -38,4 +38,23 @@ header {
     letter-spacing: 0.1px;
 
     color: #FFFFFF;
+}
+nav {
+    margin-right: 400px;
+    margin-top: 42px;
+    float: right;
+}
+nav ul {
+    display: flex;
+}
+ul li {
+    font-size: 18px;
+    padding: 10px;  
+    list-style-type: none;  
+}
+li a {
+    
+    text-decoration: none;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
 }
