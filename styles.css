@@ -27,7 +27,7 @@ header {
     width: 100px;
     height: 32px;
     left: 265px;
-    top: 42px;
+    top: 35px;
 
     font-family: Martel;
     font-style: normal;
@@ -41,7 +41,7 @@ header {
 }
 nav {
     margin-right: 400px;
-    margin-top: 42px;
+    margin-top: 35px;
     float: right;
 }
 nav ul {
