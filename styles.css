@@ -154,4 +154,22 @@ li a {
  .first9:hover {
     background: #8b671f;
  }
- 
+ .first10 {
+     text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 28px;
+    color: white;
+    padding: 11px 51px;
+    border-radius: 37px;
+    border: 1px solid white;
+    margin-top: 50px;
+    border-radius: solid 1px white;
+     
+    outline: none; /* Для синий ободки */
+    background: transparent;
+ }
+ .first10:hover {
+    background-color: rgb(21, 21, 250);
+ }
