@@ -71,3 +71,36 @@ li a {
 #first6 {
     margin-right: 80px;
 }
+.first7 {
+    padding-left: 220px;
+    padding-top: 300px;
+
+    position: static;
+    width: 509px;
+    height: 130px;
+    left: 0px;
+    top: 0px;
+    
+    /* h1 */
+    
+    font-family: Martel;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 58px;
+    line-height: 65px;
+    /* or 112% */
+    
+    letter-spacing: 0.2px;
+    
+    /* light-text-color */
+    
+    color: #FFFFFF;
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 35px;
+ } 
+ 
