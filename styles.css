@@ -349,7 +349,13 @@ p {
 #second9 {
     color: #D0A144;
 }
-.second10 {
+#second10 {
+    color: #D0A144;
+}
+#second11 {
+    color: #D0A144;
+}
+.second12 {
     margin-top: 60px;
     justify-content: center;
     display: flex;
