@@ -397,36 +397,21 @@ p {
     padding-top: -15px;
     text-align: center;
 }
-/* .third4 {
-    height: 340px;
-    background-color: rgb(13, 54, 78);
-}
-#third5 {
-    display: block;
-    padding-bottom: 300px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.third6 {
-    margin-top: 300px;
-    height: 400px;
-    background-color: rgb(13, 54, 78);
-} */
-
-
-.div-1 {
-    width: 100%;
-    height: 330px;
-    background-color: rgb(13, 54, 78);
-}
-.div-2 {
+.third4 {
     width: 100%;
     height: 350px;
     background: #252B42;
 }
-.img-1 {
-    margin-top: 170px;
+.third5 {
+    display: block;
+    padding-bottom: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
 }
-.aside-1 {
-    margin-top: 0%;
+.third6 {
+    margin-top: -140px;
+    width: 100%;
+    height: 350px;
+    background-color: rgb(13, 54, 78);
 }
