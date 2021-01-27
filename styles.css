@@ -225,23 +225,7 @@ li a {
     flex-grow: 0;
     margin: 0px 40px;
 }
-.first16 {
-    text-align: left;
-    padding-left: 20px;
-    padding-bottom: 10px;
-}
-.first17 {
-    margin-right: -15px;
-    margin-left: -40px;
-    width: 260px;
-    border-radius: 7px;
-    border: 1px rgb(214, 214, 214);
-    background-color: rgb(230, 230, 230);
-    height: 37px;
-    padding-left: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
+
 
 /* div.div-4 {  
     border-radius: 9px;
@@ -254,7 +238,18 @@ li a {
     height: 590px;
     width: 330px;
 }
-
+.input-label {
+    margin-right: -15px;
+    margin-left: -40px;
+    width: 260px;
+    border-radius: 7px;
+    border: 1px rgb(214, 214, 214);
+    background-color: rgb(230, 230, 230);
+    height: 37px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 input, textarea {
     outline: none;
     border: none;
@@ -266,6 +261,10 @@ input, textarea {
     height: 55px;
     padding-bottom: 20px;
 }
- -->
+.legend-1 {
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 10px;
+} -->
 
   */
