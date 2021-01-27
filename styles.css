@@ -311,22 +311,55 @@ p {
 }
 
 .second4 {
+    height: 380px;
+    border-radius: 8px;
     width: 350px;
     background-color: rgb(255, 255, 255);
     margin: 20px;
 }
 .second5 {
+    height: 80px;
     border-radius: 8px;
     /* width: 350px; */
     padding-left: 40px;
     padding-bottom: 30px;
-    padding-top: 20px;
+    padding-top: 30px;
     background-color: rgb(255, 220, 226);
     display: flex;
+     margin-bottom: 30px;
 }
-.second6 {
-    
+.second7 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+
+    letter-spacing: 0.2px;
+
+    color: #737373;
+    padding-bottom: -390px;
+    padding-left: 45px;
 }
+.second8 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 24px;
+
+    letter-spacing: 0.1px;
+
+    color: #252B42;
+
+    margin: 30px 0 0 19px;
+}
+#second9 {
+    color: #D0A144;
+}
+/* .second6 {
+  
+} */
 /* .example {
     justify-content: center;
     margin-top: 50px;
