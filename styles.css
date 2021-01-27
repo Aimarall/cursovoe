@@ -184,10 +184,10 @@ li a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 40px;
+    padding: 25px;
 
     position: static;
-    width: 328px;
+    width: 300px;
     height: 589px;
     left: 0px;
     top: 0px;
@@ -210,10 +210,9 @@ li a {
     left: 47px;
     top: 40px;
     /* h3 */
-    font-family: Martel;
     font-style: normal;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 26px;
     line-height: 32px;
     /* identical to box height, or 133% */
     text-align: center;
@@ -225,17 +224,17 @@ li a {
     order: 0;
     flex-grow: 0;
     margin: 0px 40px;
+    font-family: 'Libre Franklin', sans-serif;
+    padding-top: 17px;
 }
-
-
-
-/* .first16 {
-    text-align: left;
-    padding-left: 20px;
+.first16 {
+    padding-right: 200px;
     padding-bottom: 10px;
-} */
-/* .first17 {
-    margin-right: -15px;
+}
+.first17 {
+    padding: 12px 44px 15px 30px;
+
+    /* margin-right: -15px;
     margin-left: -40px;
     width: 260px;
     border-radius: 7px;
@@ -244,9 +243,11 @@ li a {
     height: 37px;
     padding-left: 30px;
     padding-top: 10px;
-    padding-bottom: 10px;
-} */
-
+    padding-bottom: 10px; */
+}
+#first19 {
+    padding-top: 44px;
+}
 /* div.div-4 {  
     border-radius: 9px;
     padding: 20px;
