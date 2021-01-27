@@ -367,7 +367,7 @@ p {
 
 .third1 {
     margin-top: -40px;
-    background: #252B42;
+    padding-bottom: 50px;
 }
 .third2 {
     font-family: Martel;
@@ -396,4 +396,7 @@ p {
 
     padding-top: -15px;
     text-align: center;
+}
+.third4 {
+    background-color: rgb(12, 54, 78);
 }
