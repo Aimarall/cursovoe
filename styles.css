@@ -6,7 +6,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: black;
+    background-color: rgb(212, 212, 212);
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
@@ -23,7 +23,7 @@ header {
     
 }
 .first1 {
-    position: absolute;
+    padding: 90px 0 0 260px;
     width: 100px;
     height: 32px;
     left: 265px;
@@ -35,13 +35,13 @@ header {
     font-size: 24px;
     line-height: 32px;
 
-    letter-spacing: 0.1px;
+ 
 
     color: #FFFFFF;
 }
 nav {
     margin-right: 30px;
-    margin-top: 35px;
+    margin-top: -41px;
     float: right;
 }
 nav ul {
@@ -60,10 +60,13 @@ li a {
 }
 .first3 {
     margin-right: 30px;
-    margin-top: 65px;
+    margin-top: -12px;
     width: 20px;
     height: 13px;
     float: right;
+}
+.first15 {
+    margin-top: -34px;
 }
 #first5 {
     margin-right: 230px;
@@ -178,7 +181,9 @@ li a {
      display: flex;
  }
  
-div {
+.first12 {
+    float: right;
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -192,42 +197,40 @@ div {
 
     background: #FFFFFF;
     border-radius: 10px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+h4 {
+    position: static;
+    width: 234px;
+    height: 32px;
+    left: 47px;
+    top: 40px;
+
+    /* h3 */
+
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    text-align: center;
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
 
     /* Inside Auto Layout */
 
     flex: none;
     order: 0;
     flex-grow: 0;
-    margin: 0px 0px;
-}
-h3 {
-    position: static;
-width: 234px;
-height: 32px;
-left: 47px;
-top: 40px;
-
-/* h3 */
-
-font-family: Martel;
-font-style: normal;
-font-weight: bold;
-font-size: 24px;
-line-height: 32px;
-/* identical to box height, or 133% */
-
-text-align: center;
-letter-spacing: 0.1px;
-
-/* text-color */
-
-color: #252B42;
-
-/* Inside Auto Layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 40px;
+    margin: 0px 40px;
 }
  
