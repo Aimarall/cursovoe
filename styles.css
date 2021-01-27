@@ -6,7 +6,6 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: rgb(212, 212, 212);
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
@@ -248,17 +247,6 @@ li a {
 .first17 {
     border-radius: 4px;
     padding: 14px 44px 15px 30px;
-
-    /* margin-right: -15px;
-    margin-left: -40px;
-    width: 260px;
-    border-radius: 7px;
-    border: 1px rgb(214, 214, 214);
-    background-color: rgb(230, 230, 230);
-    height: 37px;
-    padding-left: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px; */
 }
 .first18 {
     padding: 15px 0 15px 0;
@@ -273,29 +261,48 @@ li a {
 #first16 {
     padding-top: 38px;
 }
-/* div.div-4 {  
-    border-radius: 9px;
-    padding: 20px;
-    text-align: center;
-    margin-right: 200px;
-    margin-top: -620px;
-    float: right;
-    background-color: rgb(255, 255, 255);
-    height: 590px;
-    width: 330px;
-}
 
-input, textarea {
-    outline: none;
-    border: none;
-    border: solid 1px #f2f2f2;
-    }
-.input-select {
-    border: 1px solid  rgb(214, 214, 214);
-    background-color: rgb(230, 230, 230);
-    height: 55px;
-    padding-bottom: 20px;
-}
- -->
 
-  */
+
+
+
+.second1 {
+    position: absolute;
+    height: 732px;
+    left: 0px;
+    right: 0px;
+    top: 823px;
+
+    /* dark-background-color */
+
+    background: #252B42;
+}
+.second2 {
+    position: static;
+    width: 312px;
+    height: 50px;
+    left: 276px;
+    top: 0px;
+
+    /* h2 */
+
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: 0.2px;
+
+    /* light-text-color */
+
+    color: #FFFFFF;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
