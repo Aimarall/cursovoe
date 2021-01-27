@@ -6,13 +6,11 @@ html{
     overflow-x: hidden;
 }
 body{
+    background-color: black;
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
 }
-
-
-
 
 
 header { 
@@ -171,7 +169,7 @@ li a {
     background: transparent;
  }
  .first10:hover {
-     color: black;
+    color: black;
     background-color: rgb(250, 250, 250);
  }
  .first11 {
@@ -179,3 +177,57 @@ li a {
      margin-top: 30px;
      display: flex;
  }
+ 
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+
+    position: static;
+    width: 328px;
+    height: 619px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+h3 {
+    position: static;
+width: 234px;
+height: 32px;
+left: 47px;
+top: 40px;
+
+/* h3 */
+
+font-family: Martel;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+text-align: center;
+letter-spacing: 0.1px;
+
+/* text-color */
+
+color: #252B42;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 40px;
+}
+ 
