@@ -297,11 +297,78 @@ li a {
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
-   line-height: 23px;
+    line-height: 23px;
     
     letter-spacing: 0.2px;
 
     color: #FFFFFF;
 
+    padding-top: -15px;
     text-align: center;
 }
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.second4 {
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+}
+.second5 {
+    border-radius: 8px;
+    /* width: 350px; */
+    padding-left: 40px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: rgb(255, 220, 226);
+    display: flex;
+}
+.second6 {
+    
+}
+/* .example {
+    justify-content: center;
+    margin-top: 50px;
+    display: flex;
+}
+.example-1 {
+    margin: 20px;
+}
+.example-2 {
+    border-radius: 8px;
+    width: 350px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: rgb(255, 220, 226);
+    display: flex;
+}
+.example-2 h2 {
+    margin-top: 35px;
+}
+.example-1 h2 {
+    color: rgb(65, 65, 65);
+}
+.example-3 {
+    letter-spacing: 1.1px;
+    margin-top: -135px;
+    border-radius: 8px;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    text-align: left;
+    width: 340px;
+    background-color: rgb(255, 255, 255);
+}
+span {
+    color: gray;
+}
+.wolke-1 {
+    font-size: 18px;
+    letter-spacing: 0;
+    font-family: 'Work Sans', sans-serif;
+} */
