@@ -101,7 +101,7 @@ li a {
  } 
  .first8 {
     font-family: 'Quicksand', sans-serif;
-    padding-left: 220px;
+    padding-left: 210px;
     padding-top: 50px;
 
     position: static;
@@ -127,14 +127,13 @@ li a {
  }
  .first9 {
     border: none;
-    margin-bottom: -20px;
     font-size: 15px;
     color: white;
 
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 14px 36px;
+    padding: 15px 36px;
 
     position: static;
     width: 182px;
