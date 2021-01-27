@@ -358,6 +358,8 @@ p {
     color: #D0A144;
 }
 .second10 {
+    margin-top: 60px;
+    justify-content: center;
     display: flex;
 }
 /* .second6 {
