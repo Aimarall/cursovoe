@@ -292,3 +292,16 @@ li a {
     text-align: center;
     padding-top: 50px;
 }
+.second3 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+   line-height: 23px;
+    
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+
+    text-align: center;
+}
