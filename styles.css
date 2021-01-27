@@ -398,5 +398,11 @@ p {
     text-align: center;
 }
 .third4 {
+    
+    height: 350px;
+    left: 0px;
+    right: 0px;
+    top: 409px;
+
     background-color: rgb(13, 54, 78);
 }
