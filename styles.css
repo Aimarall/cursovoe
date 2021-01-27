@@ -276,33 +276,19 @@ li a {
     /* dark-background-color */
 
     background: #252B42;
+
+    margin-top: 160px;
 }
 .second2 {
-    position: static;
-    width: 312px;
-    height: 50px;
-    left: 276px;
-    top: 0px;
-
-    /* h2 */
-
     font-family: Martel;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
-    line-height: 50px;
-    /* identical to box height, or 125% */
-
+  
     letter-spacing: 0.2px;
 
-    /* light-text-color */
-
     color: #FFFFFF;
-
-    /* Inside Auto Layout */
-
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    margin: 0px 10px;
+   
+    text-align: center;
+    padding-top: 50px;
 }
