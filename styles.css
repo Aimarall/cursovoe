@@ -181,8 +181,6 @@ li a {
  }
  
 .first12 {
-    float: right;
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -190,7 +188,7 @@ li a {
 
     position: static;
     width: 328px;
-    height: 619px;
+    height: 589px;
     left: 0px;
     top: 0px;
 
@@ -200,7 +198,10 @@ li a {
     flex: none;
     order: 0;
     flex-grow: 0;
-    margin: 0px 0px;
+    
+    margin-right: 280px;
+    margin-top: -550px;
+    float: right;
 }
 .first14 {
     position: static;
