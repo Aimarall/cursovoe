@@ -658,10 +658,18 @@ p {
     margin-left: 295px;
 }
 #seventh4 {
-    margin-left: 13px;
+    margin-right: -20px;
+}
+#seventh5 {
+    margin-left: 36px;
+}
+#seventh6 {
+    margin-left: 16px;
 }
 .seventh5 {
     color: gray;
-    border-radius: 4px;
-    padding: 14px 94px 15px 30px;
+    border-radius: 5px;
+    padding: 14px 117px 15px 20px;
+    margin-left: 296px;
+    margin-top: 19px;
 }
