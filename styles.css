@@ -511,6 +511,9 @@ p {
 
 
 
+.fifth1 {
+    margin-top: 170px;
+}
 .fifth2 {
     font-family: Martel;
     font-style: normal;
@@ -540,86 +543,30 @@ p {
 
 
 
-/* .fifth1 {
-    text-align: center;
-    padding-top: 370px;
-}
-.fifth2 {
-    width: 401px;
-   
-    font-family: Martel;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 40px;
-    line-height: 50px; 
-
-    letter-spacing: 0.2px;
-
-    color: #FFFFFF;
-    text-align: center;
-}
-.fifth3 {
-    width: 431px;
-
-    font-family: Open Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 20px;
-
-    letter-spacing: 0.2px;
-
-    color: #FFFFFF; 
-    text-align: center;
-} */
 
 
-
-/* .wolke-2 {
-    font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(255, 175, 25);
-}
-.examplee {
+.exampleee {
     justify-content: center;
-    margin-bottom: 230px;
-    margin-top: 50px;
     display: flex;
 }
-.block {
-    margin: 20px;
-    border-radius: 7px;
-    font-weight: bold;
-    line-height: 30px;
-    font-size: 20px;
-    padding: 20px;
-    padding-bottom: 35px;
-    text-align: left;
-    height: 300px;
-    width: 370px;
+.rusalka-1 {
+    margin-top: 50px;
+    height: 380px;
+    margin-left: 40px;
+    width: 328px;
     background-color: white;
 }
-.sirena-2 {
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 0;
-    margin-left: 8px;
-    margin-bottom: -10px;
+.rusalka-2 {
+    margin-top: -20px;
+    margin-left: 0%;
 }
-.sirena-3 {
-    padding-left: 25px;
+.rusalka-4 {
+    font-size: 22px;
+    color: rgb(44, 43, 43);
 }
-.sirena-4 {
-    padding-left: 5px;
-    display: flex;
+.rusalka-5 {
+   font-weight: bold;
 }
-.sirena-5 {
-    margin-top: -110px;
+.rusalka-6 {
+    margin-top: -20px;
 }
-.sirena-6 {
-    margin-top: -100px;
-}
-.sirena-7 {
-    font-weight: bold;
-    color: rgb(32, 32, 32);
-} */
