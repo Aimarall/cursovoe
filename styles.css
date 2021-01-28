@@ -710,3 +710,52 @@ form {
 .seventh8:hover {
     background: #8f6d2a;
 }
+
+
+
+
+.ninth1 {
+    background-color: rgb(255, 255, 255);
+}
+.ninth2 {
+    position: static;
+    width: 347px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+
+    /* h3 */
+
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 10px 0px;
+}
+.ninth3 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    
+    letter-spacing: 0.2px;
+
+    color: #737373;
+
+    margin: 10px 0px;
+}
