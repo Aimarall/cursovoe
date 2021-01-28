@@ -270,6 +270,7 @@ li a {
     background: #252B42;
 
     margin-top: -35px;
+    
 }
 .second2 {
     font-family: Martel;
@@ -414,4 +415,37 @@ p {
     width: 100%;
     height: 350px;
     background-color: rgb(13, 54, 78);
+}
+
+
+
+
+.fourth1 {
+    margin-top: 370px;
+}
+.fourth2 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+
+    text-align: center;
+}
+.fourth3 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+   
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+
+    text-align: center;
 }
