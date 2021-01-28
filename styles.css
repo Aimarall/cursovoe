@@ -510,6 +510,42 @@ p {
 
 
 
+
+.fifth1 {
+    text-align: center;
+    padding-top: 370px;
+}
+.fifth2 {
+    width: 401px;
+   
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px; 
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+    text-align: center;
+}
+.fifth3 {
+    width: 431px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF; 
+    text-align: center;
+}
+
+
+
 /* .wolke-2 {
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
