@@ -450,35 +450,47 @@ p {
     text-align: center;
 }
 .fourth4 {
+    padding: 35px 25px 18px 29px;
     background-color: rgb(76, 16, 240);
 }
 .fourth5 {
-    
     width: 227px;
-
-
-
-    /* h6 */
 
     font-family: Open Sans;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 24px;
-    /* or 171% */
+   
+    letter-spacing: 0.2px;
+
+    color: #737373;
+}
+.fourth6 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
 
     letter-spacing: 0.2px;
 
-    /* second-text-color */
+    color: #D0A144;
+    line-height: 1px;
+}
+.fourth7 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    
+    letter-spacing: 0.2px;
 
-    color: #737373;
-
-    /* Inside Auto Layout */
-
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    margin: 20px 0px;
+    color: #252B42; 
+}
+.fourth8 {
+    display: flex;
 }
 
 
