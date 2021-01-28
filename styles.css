@@ -258,6 +258,12 @@ li a {
     font-size: 16px;
     border-radius: 7px;
 }
+#Email {
+    padding-top: 20px;
+}
+#Department {
+    padding-top: 20px;
+}
 #first16 {
     padding-top: 38px;
 }
