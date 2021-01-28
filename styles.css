@@ -545,7 +545,8 @@ p {
 
 
 .sixth1 {
-    margin-top: 300px;
+    margin-top: 100px;
+    margin: 30px;
 }
 .sixth2 {
     width: 330px;
@@ -554,7 +555,7 @@ p {
     margin-top: -37px;
     height: 155px;
     width: 330px;
-    background-color: rgb(228, 42, 42);
+    background-color: rgb(255, 255, 255);
 }
 .sixth4 {
     width: 128px;
@@ -589,7 +590,11 @@ p {
     margin-right: 130px;
     float: right;
 }
-
+.sixth7 {
+    margin-top: 46px;
+    justify-content: center;
+    display: flex;
+}
 
 
 
