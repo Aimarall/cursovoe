@@ -540,10 +540,53 @@ p {
 
     text-align: center;
 }
+.sixth5 {
+    width: 92px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: 0.2px;
+
+    color: #737373;
+
+    text-align: center;
+}
 
 
 
 
+
+.sixth2 {
+    width: 330px;
+}
+.sixth3 {
+    margin-top: -33px;
+    width: 330px;
+    background-color: rgb(255, 246, 246);
+}
+.sixth4 {
+    width: 128px;
+
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: 0.1px;
+
+    color: #252B42;
+
+    text-align: center;
+}
+
+
+
+/* 
 
 .exampleee {
     justify-content: center;
@@ -569,4 +612,4 @@ p {
 }
 .rusalka-6 {
     margin-top: -20px;
-}
+} */
