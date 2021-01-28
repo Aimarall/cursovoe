@@ -257,6 +257,13 @@ li a {
     width: 235px;
     font-size: 16px;
     border-radius: 7px;
+    border: none;
+}
+.first18:hover {
+    background-color: rgb(24, 30, 75);
+}
+.first18:focus {
+    outline: none;
 }
 #Email {
     padding-top: 20px;
@@ -758,4 +765,22 @@ form {
     color: #737373;
 
     margin: 10px 0px;
+}
+.ninth4 {
+    display: flex;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+    color: blanchedalmond;
+    background: #D0A144;
+    border-radius: 5px;
+    padding: 18px 40px 18px 40px;
+    margin-top: 43px;
+    margin-left: 295px;
+}
+.ninth4:focus {
+    outline: none;
+}
+.ninth4:hover {
+    background: #8f6d2a;
 }
