@@ -791,3 +791,86 @@ form {
 .ninth5 {
     margin-left: 300px;
 }
+
+
+
+
+
+footer {
+    padding-top: 10px;
+    padding-right: 118px;
+    height: 570px;
+    padding-left: 118px;
+    background: #252B42;
+}
+.glubina {
+    margin-top: 37px;
+    margin-right: 20px;
+    justify-content: space-around;
+    color: rgb(228, 228, 228);
+    display: flex;
+}
+.more-3 {
+    padding-bottom: 20px;
+}
+#more-1 {
+   margin-top: -10px;
+}
+.more-1 {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+.more-2 {
+    padding: 17px;
+    width: 170px;
+    border: solid white 2px;
+    border-radius: 5px;
+}
+.button-7 {
+    border: solid white 2px;
+    margin-left: -30px;
+    padding: 17px;
+    height: 53px;
+    width: 100px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    background-color: rgb(197, 150, 63);
+
+}
+hr {
+    margin-left: 96px;
+    margin-top: 50px;
+    border-right-color: rgb(110, 110, 110);
+    border-left-color: rgb(110, 110, 110);
+    border-top-color: rgb(110, 110, 110);
+    border-bottom-color: rgb(110, 110, 110);
+}
+h4 {
+    margin-left: 100px;
+    margin-bottom: -6px;
+    padding-top: 50px;
+    font-size: 26px;
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.vector-11 {
+    float: right;
+    margin-top: -35px;
+    padding: 9px;
+}
+#meduza {
+    margin-right: -1px;
+}
+#meduza-1 {
+    margin-right: -1px;
+}
+#meduza-2 {
+    margin-right: -1px;
+}
+#meduza-3 {
+    margin-right: -1px;
+}
+button {
+    border: none;
+}
