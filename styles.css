@@ -692,3 +692,21 @@ form {
     margin-top: 27px;
     margin-left: 296px;
 }
+.seventh8 {
+    display: flex;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+    color: blanchedalmond;
+    background: #D0A144;
+    border-radius: 5px;
+    padding: 18px 40px 18px 40px;
+    margin-top: 43px;
+    margin-left: 295px;
+}
+.seventh8:focus {
+    outline: none;
+}
+.seventh8:hover {
+    background: #8f6d2a;
+}
