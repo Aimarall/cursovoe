@@ -544,14 +544,17 @@ p {
 
 
 
-
+.sixth1 {
+    margin-top: 300px;
+}
 .sixth2 {
     width: 330px;
 }
 .sixth3 {
     margin-top: -37px;
+    height: 155px;
     width: 330px;
-    background-color: rgb(255, 246, 246);
+    background-color: rgb(228, 42, 42);
 }
 .sixth4 {
     width: 128px;
@@ -563,7 +566,7 @@ p {
     line-height: 24px;
 
     color: #252B42;
-    padding-top: 48px;
+    padding-top: 50px;
     padding-left: 31%;
     line-height: 1px;
 }
@@ -581,6 +584,12 @@ p {
     text-align: center;
     line-height: 1px;
 }
+.sixth6 {
+    margin-top: -10px;
+    margin-right: 130px;
+    float: right;
+}
+
 
 
 
