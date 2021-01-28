@@ -540,9 +540,34 @@ p {
 
     text-align: center;
 }
-.sixth5 {
-    width: 92px;
 
+
+
+
+
+.sixth2 {
+    width: 330px;
+}
+.sixth3 {
+    margin-top: -37px;
+    width: 330px;
+    background-color: rgb(255, 246, 246);
+}
+.sixth4 {
+    width: 128px;
+
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+
+    color: #252B42;
+    padding-top: 48px;
+    padding-left: 31%;
+    line-height: 1px;
+}
+.sixth5 {
     font-family: Open Sans;
     font-style: normal;
     font-weight: bold;
@@ -554,34 +579,7 @@ p {
     color: #737373;
 
     text-align: center;
-}
-
-
-
-
-
-.sixth2 {
-    width: 330px;
-}
-.sixth3 {
-    margin-top: -33px;
-    width: 330px;
-    background-color: rgb(255, 246, 246);
-}
-.sixth4 {
-    width: 128px;
-
-    font-family: Martel;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    line-height: 24px;
-
-    letter-spacing: 0.1px;
-
-    color: #252B42;
-
-    text-align: center;
+    line-height: 1px;
 }
 
 
