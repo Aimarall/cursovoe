@@ -452,6 +452,34 @@ p {
 .fourth4 {
     background-color: rgb(76, 16, 240);
 }
+.fourth5 {
+    
+    width: 227px;
+
+
+
+    /* h6 */
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.2px;
+
+    /* second-text-color */
+
+    color: #737373;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 20px 0px;
+}
 
 
 
