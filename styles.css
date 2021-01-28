@@ -722,6 +722,7 @@ form {
 
 
 .ninth1 {
+    display: flex;
     background-color: rgb(255, 255, 255);
 }
 .ninth2 {
