@@ -660,3 +660,8 @@ p {
 #seventh4 {
     margin-left: 13px;
 }
+.seventh5 {
+    color: gray;
+    border-radius: 4px;
+    padding: 14px 94px 15px 30px;
+}
