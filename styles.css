@@ -609,6 +609,9 @@ p {
 
 
 
+form {
+    margin-top: 60px;
+}
 .seventh1 {
     height: 950px;
     background: url(./img/img6.png) no-repeat;
@@ -622,7 +625,6 @@ p {
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
-    line-height: 24px;
     
     letter-spacing: 0.1px;
 
@@ -630,7 +632,7 @@ p {
     color: #FFFFFF;
     padding-top: 100px;
     padding-right: 1020px;
-    line-height: 2px;
+    line-height: 1px;
 }
 .seventh3 {
 
@@ -638,7 +640,6 @@ p {
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
-    line-height: 50px;
 
     letter-spacing: 0.2px;
 
@@ -672,4 +673,22 @@ p {
     padding: 14px 117px 15px 20px;
     margin-left: 296px;
     margin-top: 19px;
+}
+#seventh7 {
+    width: 516px;
+    height: 140px;
+    left: 0px;
+    top: 140px;
+
+    background: #F9F9F9;
+    /* muted-color */
+
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+    color: gray;
+    padding: 15px;
+    margin-top: 27px;
+    margin-left: 296px;
 }
