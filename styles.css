@@ -626,8 +626,10 @@ p {
     
     letter-spacing: 0.1px;
 
+    text-align: center;
     color: #FFFFFF;
-    padding: 100px 0 0 100px;
+    padding-top: 100px;
+    padding-right: 1020px;
     line-height: 2px;
 }
 .seventh3 {
@@ -640,7 +642,9 @@ p {
 
     letter-spacing: 0.2px;
 
+    text-align: center;
     color: #FFFFFF;
-    padding: 1px 0 0 100px;
-    line-height: 2px;
+    padding-top: 10px;
+    padding-right: 710px;
+    line-height: 1px;
 }
