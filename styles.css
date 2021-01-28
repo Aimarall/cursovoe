@@ -511,6 +511,7 @@ p {
 
 
 
+
 .fifth1 {
     margin-top: 170px;
 }
@@ -540,6 +541,7 @@ p {
 
     text-align: center;
 }
+
 
 
 
@@ -591,6 +593,7 @@ p {
     float: right;
 }
 .sixth7 {
+    margin-bottom: 100px;
     margin-top: 46px;
     justify-content: center;
     display: flex;
@@ -598,30 +601,36 @@ p {
 
 
 
-/* 
 
-.exampleee {
-    justify-content: center;
-    display: flex;
+
+.seventh1 {
+    height: 950px;
+    background: url(./img/img6.png) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
 }
-.rusalka-1 {
-    margin-top: 50px;
-    height: 380px;
-    margin-left: 40px;
-    width: 328px;
-    background-color: white;
+.seventh2 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    
+    letter-spacing: 0.1px;
+
+    color: #FFFFFF;
 }
-.rusalka-2 {
-    margin-top: -20px;
-    margin-left: 0%;
+.seventh3 {
+
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
 }
-.rusalka-4 {
-    font-size: 22px;
-    color: rgb(44, 43, 43);
-}
-.rusalka-5 {
-   font-weight: bold;
-}
-.rusalka-6 {
-    margin-top: -20px;
-} */
