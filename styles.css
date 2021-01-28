@@ -627,6 +627,8 @@ p {
     letter-spacing: 0.1px;
 
     color: #FFFFFF;
+    padding: 100px 0 0 100px;
+    line-height: 2px;
 }
 .seventh3 {
 
@@ -639,4 +641,6 @@ p {
     letter-spacing: 0.2px;
 
     color: #FFFFFF;
+    padding: 1px 0 0 100px;
+    line-height: 2px;
 }
