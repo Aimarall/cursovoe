@@ -270,7 +270,6 @@ li a {
     background: #252B42;
 
     margin-top: -35px;
-    
 }
 .second2 {
     font-family: Martel;
@@ -511,7 +510,37 @@ p {
 
 
 
-.fifth1 {
+
+.fifth2 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+
+    text-align: center;
+}
+ .fifth3 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+   
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+
+    text-align: center;
+}
+
+
+
+/* .fifth1 {
     text-align: center;
     padding-top: 370px;
 }
@@ -542,7 +571,7 @@ p {
 
     color: #FFFFFF; 
     text-align: center;
-}
+} */
 
 
 
