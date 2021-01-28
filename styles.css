@@ -648,3 +648,11 @@ p {
     padding-right: 710px;
     line-height: 1px;
 }
+.seventh4 {
+    color: gray;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 70px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
