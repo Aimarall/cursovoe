@@ -629,7 +629,7 @@ p {
 }
 .seventh2 {
     padding-top: 80px;
-    margin-left: 320px;
+    margin-left: 322px;
 }
 .seventh3 {
     margin-left: 309px;
@@ -710,6 +710,9 @@ button:focus {
 }
 button {
     border: none;
+}
+button:hover {
+    background: #8b671f;
 }
 
 
