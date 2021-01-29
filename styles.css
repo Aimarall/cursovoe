@@ -606,7 +606,7 @@ p {
     float: right;
 }
 .sixth7 {
-    margin-bottom: 100px;
+    margin-bottom: 190px;
     margin-top: 46px;
     justify-content: center;
     display: flex;
@@ -669,6 +669,47 @@ p {
     color: #FFFFFF;
 
     line-height: 1px;
+}
+
+button:focus {
+    outline: none;
+}
+
+
+
+
+
+
+
+.eighth1 {
+    background-color: rgb(255, 255, 255);
+}
+.eighth3 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    letter-spacing: 0.1px;
+
+    color: #252B42;
+    line-height: 20px;
+}
+.eighth4 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+
+    letter-spacing: 0.2px;
+
+    color: #737373;
+    line-height: 8px;
+}
+.eighth5 {
+    margin-left: 110px;
 }
 
 
