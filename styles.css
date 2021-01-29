@@ -882,4 +882,13 @@ h4 {
     .second12 {
         flex-direction: column;
     }
+    .third4 {
+        height: 200px;
+    }
+    .third5 {
+        width: 400px;
+    }
+    .third6 {
+        height: 200px;
+    }
 }
