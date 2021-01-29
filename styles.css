@@ -6,6 +6,7 @@ html{
     overflow-x: hidden;
 }
 body{
+    background: blue;
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
@@ -158,7 +159,6 @@ li a {
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
-    line-height: 28px;
     color: white;
     padding: 9px 40px;
     border-radius: 37px;
@@ -964,5 +964,26 @@ h4 {
         padding-top: 5px;
         padding-left: 0%;
     }
-
+    .first3 {
+       
+        margin-top: 50px;
+    }
+    li a{
+       float: left;
+    }
+    .first11 {
+       
+        margin-left: 23px;
+    }
+    .first12 {
+        margin-top: 30px;
+        margin-bottom: 100px;
+    }
+    .first7 {
+        padding-top: 240px;
+        padding-left: 0%;
+    }
+    .first8 {
+        padding-left: 0%;
+    }
 }
