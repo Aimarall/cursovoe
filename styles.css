@@ -617,6 +617,32 @@ p {
 
 
 
+.seventh1 {
+    height: 950px;
+    background: url(./img/img6.png) no-repeat;
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%;
+    background-size: 100%; 
+}
+
+.seventh3 {
+    margin-left: 300px;
+    margin-top: 210px;
+}
+.seventh4 {
+    margin-left: 10px;
+    background-color: rgb(197, 150, 63);
+    color: white;
+    padding: 20px;
+    margin-top: 35px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 7px;
+}
+
+
+
 
 
 
@@ -638,9 +664,7 @@ p {
 form {
     margin-top: 60px;
 }
-.formm {
-    margin-top: -60px;
-}
+
 .input-1 {
     margin: 10px;
     padding: 17px;
@@ -658,16 +682,7 @@ select {
     border-radius: 7px;
     color: rgb(134, 133, 133);
 }
-.button-1 {
-    margin-left: 10px;
-    background-color: rgb(197, 150, 63);
-    color: white;
-    padding: 20px;
-    margin-top: 35px;
-    width: 250px;
-    font-size: 18px;
-    border-radius: 7px;
-}
+
 button {
     border: none;
 }
@@ -688,13 +703,13 @@ textarea {
     border-radius: 5px;
     
 }
-.aside-2 {
+.eighth1 {
     margin-bottom: 20px;
     margin-left: 150px;
     display: flex;
     padding: 70px;
 }
-.button-2 {
+.eighth2 {
     border: 1px solid rgb(197, 150, 63);
     margin-top: 24px;
     margin-right: 160px;
