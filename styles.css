@@ -823,6 +823,7 @@ hr {
     border-left-color: rgb(110, 110, 110);
     border-top-color: rgb(110, 110, 110);
     border-bottom-color: rgb(110, 110, 110);
+    border: 1px solid #364067;
 }
 h4 {
     margin-left: 100px;
@@ -878,6 +879,18 @@ h4 {
     padding: 30px 0 0 215px;
 }
 
+.ten1 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+   
+    letter-spacing: 0.1px;
+
+    color: #FFFFFF;
+}
+
 @media (max-width: 855px) {
     .second12 {
         flex-direction: column;
@@ -910,5 +923,21 @@ h4 {
     }
     textarea {
         width: 288px;
+    }
+    .eighth1 {
+        flex-direction: column;
+    }
+    .eighth2 {
+        margin-left: -200px;
+    }
+    .eighth5 {
+        margin-left: -200px;
+    }
+    .ten1 {
+        padding-top: 0%;
+    }
+    .vector-11 {
+        padding-top: 60px;
+        justify-content: space-between;
     }
 }
