@@ -541,7 +541,7 @@ p {
 
     text-align: center;
 }
- .fifth3 {
+.fifth3 {
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
@@ -616,183 +616,159 @@ p {
 
 
 
+
+
+
+
+
+
+
+
+
+
+    /* padding-left: 315px;
+    padding-top: 150px;
+    height: 700px;
+    background: url(./img/img6.png) no-repeat;
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%;  */
+
 form {
     margin-top: 60px;
 }
-.seventh1 {
-    height: 950px;
-    background: url(./img/img6.png) no-repeat;
-    -moz-background-size: 100%; /* Firefox 3.6+ */
-    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
-    -o-background-size: 100%; /* Opera 9.6+ */
-    background-size: 100%; /* Современные браузеры */
+.formm {
+    margin-top: -60px;
 }
-.seventh2 {
-    font-family: Martel;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    
-    letter-spacing: 0.1px;
+.input-1 {
+    margin: 10px;
+    padding: 17px;
+    width: 250px;
+    border-radius: 7px;
+}
+select {
+    margin: 10px;
+    line-height: 100px;
+    height: 55px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 15px;
+    width: 288px;
+    border-radius: 7px;
+    color: rgb(134, 133, 133);
+}
+.button-1 {
+    margin-left: 10px;
+    background-color: rgb(197, 150, 63);
+    color: white;
+    padding: 20px;
+    margin-top: 35px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 7px;
+}
+button {
+    border: none;
+}
+textarea {
+    padding: 20px;
+    margin-left: 10px;
 
-    text-align: center;
-    color: #FFFFFF;
-    padding-top: 100px;
-    padding-right: 1020px;
-    line-height: 1px;
-}
-.seventh3 {
-
-    font-family: Martel;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 40px;
-
-    letter-spacing: 0.2px;
-
-    text-align: center;
-    color: #FFFFFF;
-    padding-top: 10px;
-    padding-right: 710px;
-    line-height: 1px;
-}
-.seventh4 {
-    color: gray;
-    border-radius: 5px;
-    padding-left: 20px;
-    padding-right: 70px;
-    padding-top: 14px;
-    padding-bottom: 14px;
-    margin-left: 295px;
-}
-#seventh4 {
-    margin-right: -20px;
-}
-#seventh5 {
-    margin-left: 36px;
-}
-#seventh6 {
-    margin-left: 16px;
-}
-.seventh5 {
-    color: gray;
-    border-radius: 5px;
-    padding: 14px 117px 15px 20px;
-    margin-left: 296px;
-    margin-top: 19px;
-}
-#seventh7 {
-    width: 516px;
+    position: static;
+    width: 598px;
     height: 140px;
     left: 0px;
     top: 140px;
-
+    
     background: #F9F9F9;
-    /* muted-color */
-
+    
     border: 1px solid #BDBDBD;
     box-sizing: border-box;
     border-radius: 5px;
-
-    color: gray;
-    padding: 15px;
-    margin-top: 27px;
-    margin-left: 296px;
-}
-.seventh8 {
-    display: flex;
-    border: none;
-    font-weight: bold;
-    font-size: 16px;
-    color: blanchedalmond;
-    background: #D0A144;
-    border-radius: 5px;
-    padding: 18px 40px 18px 40px;
-    margin-top: 43px;
-    margin-left: 295px;
-}
-.seventh8:focus {
-    outline: none;
-}
-.seventh8:hover {
-    background: #8f6d2a;
-}
-
-
-
-
-.ninth1 {
-    padding-top: 40px;
-    height: 130px;
-    display: flex;
-    background-color: rgb(255, 255, 255);
-}
-.ninth2 {
-    position: static;
-    width: 347px;
-    height: 32px;
-    left: 0px;
-    top: 0px;
-
-    /* h3 */
-
-    font-family: Martel;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 24px;
-    line-height: 32px;
-    /* identical to box height, or 133% */
-
-    letter-spacing: 0.1px;
-
-    /* text-color */
-
-    color: #252B42;
-
-    /* Inside Auto Layout */
-
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    margin: 10px 0px;
-}
-.ninth3 {
-    font-family: Open Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 20px;
     
-    letter-spacing: 0.2px;
-
-    color: #737373;
-
-    margin: 10px 0px;
 }
-.ninth4 {
+.aside-2 {
+    margin-bottom: 20px;
+    margin-left: 150px;
     display: flex;
-    border: none;
-    font-weight: bold;
-    font-size: 16px;
-    color: blanchedalmond;
-    background: #D0A144;
-    border-radius: 5px;
-    padding: 18px 40px 18px 40px;
-    margin-top: 20px;
-    margin-left: 600px;
-   
+    padding: 70px;
 }
-.ninth4:focus {
+.button-2 {
+    border: 1px solid rgb(197, 150, 63);
+    margin-top: 24px;
+    margin-right: 160px;
+    margin-left: auto;
+    background-color: rgb(197, 150, 63);
+    color: white;
+    height: 57px;
+    width: 170px;
+    font-size: 18px;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
+
+/* main h1{
+    color: white;
+    margin-left: 13px;
+}
+h5 {
+    margin-left: 13px;
+    line-height: 3px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.aside-1 {
+    margin-top: 50px;
+}
+aside h1 {
+    line-height: 29px;
+    font-size: 31px;
+    font-family: 'Andika New Basic', sans-serif;
+    color: rgb(41, 38, 38);
+}
+aside p {
+    color: rgb(80, 74, 74);
+}
+button:hover {
+    background-color: rgb(153, 117, 49);
+}
+.button-5:hover {
+    background-color: rgb(233, 233, 233);
+    color: rgb(1, 99, 129);
+}
+.button-6:hover {
+    background-color: rgb(47, 53, 104);
+}
+.button-1:focus {
     outline: none;
 }
-.ninth4:hover {
-    background: #8f6d2a;
+.button-2:focus {
+    outline: none;
 }
-.ninth5 {
-    margin-left: 300px;
+.button-3:focus {
+    outline: none;
 }
-
-
+.button-4:focus {
+    outline: none;
+}
+.button-5:focus {
+    outline: none;
+}
+.button-6:focus {
+    outline: none;
+}
+.button-7:focus {
+    outline: none;
+}
 
 
 
@@ -836,8 +812,6 @@ footer {
     border-bottom-right-radius: 5px;
     color: white;
     background-color: rgb(197, 150, 63);
-
-}
 hr {
     margin-left: 96px;
     margin-top: 50px;
@@ -874,31 +848,132 @@ h4 {
 button {
     border: none;
 }
-
-
-
-
-.eighth1 {
-    height: 74px;
-    left: 0px;
-    right: 0px;
-    top: 452px;
-
-    /* background-gradient-1 */
-
-    background: linear-gradient(270deg, #295C7A -1.04%, #0072B5 100%);
+.div-3 {
+    font-family: 'Noto Sans', sans-serif;
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(82, 82, 255);
 }
-.eighth2 {
-    font-family: Open Sans;
-    font-style: normal;
+.example {
+    justify-content: center;
+    margin-top: 50px;
+    display: flex;
+}
+.example-1 {
+    margin: 20px;
+}
+.example-2 {
+    border-radius: 8px;
+    width: 350px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: rgb(255, 220, 226);
+    display: flex;
+}
+.example-2 h2 {
+    margin-top: 35px;
+}
+.example-1 h2 {
+    color: rgb(65, 65, 65);
+}
+.example-3 {
+    letter-spacing: 1.1px;
+    margin-top: -135px;
+    border-radius: 8px;
     font-weight: bold;
-    font-size: 15px;
-    line-height: 24px;
-   
-    letter-spacing: 0.2px;
-
-    color: #FFFFFF;
-
-    margin: 0px 0px;
-    padding: 20px 20px 20px 210px;
+    line-height: 30px;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    text-align: left;
+    width: 340px;
+    background-color: rgb(255, 255, 255);
 }
+span {
+    color: gray;
+}
+.wolke-1 {
+    font-size: 18px;
+    letter-spacing: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.wolke-2 {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 175, 25);
+}
+.examplee {
+    justify-content: center;
+    margin-bottom: 230px;
+    margin-top: 50px;
+    display: flex;
+}
+.block {
+    margin: 20px;
+    border-radius: 7px;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 20px;
+    padding-bottom: 35px;
+    text-align: left;
+    height: 300px;
+    width: 370px;
+    background-color: white;
+}
+.sirena-2 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0;
+    margin-left: 8px;
+    margin-bottom: -10px;
+}
+.sirena-3 {
+    padding-left: 25px;
+}
+.sirena-4 {
+    padding-left: 5px;
+    display: flex;
+}
+.sirena-5 {
+    margin-top: -110px;
+}
+.sirena-6 {
+    margin-top: -100px;
+}
+.sirena-7 {
+    font-weight: bold;
+    color: rgb(32, 32, 32);
+}
+.exampleee {
+    justify-content: center;
+    display: flex;
+}
+.rusalka-1 {
+    margin-top: 50px;
+    height: 380px;
+    margin-left: 40px;
+    width: 328px;
+    background-color: white;
+}
+.rusalka-2 {
+    margin-top: -20px;
+    margin-left: 0%;
+}
+.rusalka-4 {
+    font-size: 22px;
+    color: rgb(44, 43, 43);
+}
+.rusalka-5 {
+   font-weight: bold;
+}
+.rusalka-6 {
+    margin-top: -20px;
+} */
