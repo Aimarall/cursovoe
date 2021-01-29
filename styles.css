@@ -898,5 +898,17 @@ h4 {
         position: relative;
         flex-direction: column;
     }
-    
+    .seventh1 {
+        margin-left: -300px;
+    }
+    .seventh2 {
+        float: left;
+    }
+    .seventh13 {
+        float: left;
+        margin-right: 600px;
+    }
+    textarea {
+        width: 288px;
+    }
 }
