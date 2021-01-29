@@ -624,16 +624,19 @@ p {
     -webkit-background-size: 100%; 
     -o-background-size: 100%;
     background-size: 100%; 
+
+    margin-top: -110px;
 }
 .seventh2 {
+    padding-top: 80px;
     margin-left: 320px;
 }
 .seventh3 {
-    margin-left: 300px;
-    margin-top: 210px;
+    margin-left: 309px;
+    margin-top: 65px;
 }
 .seventh4 {
-    margin-left: 309px;
+    margin-left: 319px;
     background-color: rgb(197, 150, 63);
     color: white;
     padding: 20px;
@@ -652,6 +655,7 @@ p {
     letter-spacing: 0.1px;
 
     color: #FFFFFF;
+   line-height: 5px;
 }
 .seventh6 {
     font-family: Martel;
@@ -663,6 +667,8 @@ p {
     letter-spacing: 0.2px;
 
     color: #FFFFFF;
+
+    line-height: 1px;
 }
 
 
