@@ -670,10 +670,48 @@ p {
 
     line-height: 1px;
 }
+.seventh7 {
+    margin: 10px;
+    line-height: 100px;
+    height: 55px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 15px;
+    width: 288px;
+    border-radius: 7px;
+    color: rgb(134, 133, 133);
+}
+.seventh8 {
+    margin: 10px;
+    padding: 17px;
+    width: 250px;
+    border-radius: 7px;
+}
+textarea {
+    padding: 20px;
+    margin-left: 10px;
+
+    position: static;
+    width: 598px;
+    height: 140px;
+    left: 0px;
+    top: 140px;
+    
+    background: #F9F9F9;
+    
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
 
 button:focus {
     outline: none;
 }
+button {
+    border: none;
+}
+
 
 
 
@@ -683,6 +721,22 @@ button:focus {
 
 .eighth1 {
     background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-left: 150px;
+    display: flex;
+    padding: 70px;
+}
+.eighth2 {
+    border: 1px solid rgb(197, 150, 63);
+    margin-top: 24px;
+    margin-right: 160px;
+    margin-left: auto;
+    background-color: rgb(197, 150, 63);
+    color: white;
+    height: 57px;
+    width: 170px;
+    font-size: 18px;
+    border-radius: 7px;
 }
 .eighth3 {
     font-family: Martel;
@@ -723,75 +777,9 @@ button:focus {
 
 
 
-    /* padding-left: 315px;
-    padding-top: 150px;
-    height: 700px;
-    background: url(./img/img6.png) no-repeat;
-    -moz-background-size: 100%; 
-    -webkit-background-size: 100%; 
-    -o-background-size: 100%; 
-    background-size: 100%;  */
-
-form {
-    margin-top: 60px;
-}
-
-.input-1 {
-    margin: 10px;
-    padding: 17px;
-    width: 250px;
-    border-radius: 7px;
-}
-.seventh7 {
-    margin: 10px;
-    line-height: 100px;
-    height: 55px;
-    margin-right: 10px;
-    margin-left: 10px;
-    padding: 15px;
-    width: 288px;
-    border-radius: 7px;
-    color: rgb(134, 133, 133);
-}
-
-button {
-    border: none;
-}
-textarea {
-    padding: 20px;
-    margin-left: 10px;
-
-    position: static;
-    width: 598px;
-    height: 140px;
-    left: 0px;
-    top: 140px;
     
-    background: #F9F9F9;
-    
-    border: 1px solid #BDBDBD;
-    box-sizing: border-box;
-    border-radius: 5px;
-    
-}
-.eighth1 {
-    margin-bottom: 20px;
-    margin-left: 150px;
-    display: flex;
-    padding: 70px;
-}
-.eighth2 {
-    border: 1px solid rgb(197, 150, 63);
-    margin-top: 24px;
-    margin-right: 160px;
-    margin-left: auto;
-    background-color: rgb(197, 150, 63);
-    color: white;
-    height: 57px;
-    width: 170px;
-    font-size: 18px;
-    border-radius: 7px;
-}
+
+
 
 
 
