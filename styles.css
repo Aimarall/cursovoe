@@ -933,10 +933,21 @@ h4 {
     .eighth5 {
         margin-left: -200px;
     }
+    ul {
+        display: inline-flex;
+    }
+    footer {
+        padding-left: 0%;
+        height: 100%;
+    }
     .ten1 {
+        float: left;
         padding-top: 0%;
     }
     .vector-11 {
         padding-top: 60px;
+    }
+    .glubina {
+        flex-direction: column;
     }
 }
