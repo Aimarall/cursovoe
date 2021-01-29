@@ -886,10 +886,10 @@ h4 {
         height: 200px;
     }
     .third5 {
-        width: 380px;
+        width: 350px;
     }
     .third6 {
-        height: 200px;
+        height: 180px;
     }
     .fourth11 {
         flex-direction: column;
@@ -898,4 +898,5 @@ h4 {
         position: relative;
         flex-direction: column;
     }
+    
 }
