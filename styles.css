@@ -625,7 +625,9 @@ p {
     -o-background-size: 100%;
     background-size: 100%; 
 }
-
+.seventh2 {
+    margin-left: 320px;
+}
 .seventh3 {
     margin-left: 300px;
     margin-top: 210px;
@@ -639,6 +641,28 @@ p {
     width: 250px;
     font-size: 18px;
     border-radius: 7px;
+}
+.seventh5 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: 0.1px;
+
+    color: #FFFFFF;
+}
+.seventh6 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
 }
 
 
