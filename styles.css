@@ -878,7 +878,7 @@ h4 {
     padding: 30px 0 0 215px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 855px) {
     .second12 {
         flex-direction: column;
     }
@@ -890,5 +890,12 @@ h4 {
     }
     .third6 {
         height: 200px;
+    }
+    .fourth11 {
+        flex-direction: column;
+    }
+    .sixth7 {
+        position: relative;
+        flex-direction: column;
     }
 }
