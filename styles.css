@@ -14,7 +14,7 @@ body{
 
 
 header { 
-    height: 950px;
+    height: 975px;
     background: url(./img/img1.png) no-repeat;
     -moz-background-size: 100%; /* Firefox 3.6+ */
     -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
@@ -34,9 +34,7 @@ header {
     font-weight: bold;
     font-size: 24px;
     line-height: 32px;
-
- 
-
+    margin-bottom: -1px;
     color: #FFFFFF;
 }
 nav {
@@ -76,7 +74,7 @@ li a {
 }
 .first7 {
     padding-left: 220px;
-    padding-top: 340px;
+    padding-top: 330px;
 
     position: static;
     width: 509px;
