@@ -6,7 +6,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background: blue;
+    background: rgb(255, 255, 255);
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
@@ -280,9 +280,8 @@ li a {
 
 
 .second1 {
+    margin-top: -50px;
     background: #252B42;
-
-    margin-top: -35px;
 }
 .second2 {
     font-family: Martel;
@@ -964,26 +963,61 @@ h4 {
         padding-top: 5px;
         padding-left: 0%;
     }
-    .first3 {
-       
-        margin-top: 50px;
+    .first1 {
+        padding-left: 55px;
     }
-    li a{
-       float: left;
+    .first2 {
+        position: static;
+        padding-top: 70px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 50px 50px;
+    }
+    #first4 {
+        margin-right: 1px;
+    }
+    #first6 {
+        margin-right: 30px;
+    }
+    #first5 {
+        padding-left: -20px;
+        margin-left: 200px;
+    }
+    .first3 {
+        margin-left: -40px;
+        margin-top: 50px;
     }
     .first11 {
        
         margin-left: 23px;
     }
     .first12 {
+        margin-right: 100px;
         margin-top: 30px;
-        margin-bottom: 100px;
+        margin-bottom: 200px;
     }
     .first7 {
+        color: black;
         padding-top: 240px;
         padding-left: 0%;
     }
     .first8 {
+        color: black;
         padding-left: 0%;
+    }
+    .first10 {
+        border: 1px solid black;
+        color: black;
+    }
+    .first10:hover {
+        border: none;
+        background: #8b671f;
+    }
+    fieldset {
+        border: none;
+    }
+    .second1 {
+        margin-top: 500px;
+        background: #252B42;
     }
 }
