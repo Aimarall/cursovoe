@@ -912,23 +912,20 @@ h4 {
         flex-direction: column;
     }
     .seventh1 {
-      
-       
-            margin: 0px;
-            padding: 0px;
-            min-width: 320px;
-            position: relative;
-            overflow-x: hidden;
-         
+        margin: 0px;
+        padding: 0px;
+        min-width: 320px;
+        position: relative;
+        overflow-x: hidden;
         
-            background-image: url(./img/img6.png);
-            background-position: top center;
-            background-attachment: fixed;
-            min-height: 668px;
-            position: relative;
-            -webkit-background-size: cover;
-            background-size: cover;
-           margin-left: -300px;
+        background-image: url(./img/img6.png);
+        background-position: top center;
+        background-attachment: fixed;
+        min-height: 668px;
+        position: relative;
+        -webkit-background-size: cover;
+        background-size: cover;
+        margin-left: -300px;
     }
     .seventh2 {
         float: left;
@@ -981,23 +978,19 @@ h4 {
         padding-left: 0%;
     }
     header {
+        margin: 0px;
+        padding: 0px;
+        min-width: 320px;
+        position: relative;
+        height: 1400px;
      
-            margin: 0px;
-            padding: 0px;
-            min-width: 320px;
-            position: relative;
-            overflow-x: hidden;
-     
-       
-            background-image: url(./img/img1.png);
-            background-position: top center;
-            background-attachment: fixed;
-            min-height: 668px;
-            position: relative;
-            -webkit-background-size: cover;
-            background-size: cover;
-           
-       
+        background-image: url(./img/img1.png);
+        background-position: top center;
+        background-attachment: fixed;
+        min-height: 668px;
+        position: relative;
+        -webkit-background-size: cover;
+        background-size: cover; 
     }
     .first1 {
         padding-left: 55px;
@@ -1033,7 +1026,7 @@ h4 {
         margin-bottom: 150px;
     }
     .first7 {
-        padding-top: 240px;
+        padding-top: 140px;
         padding-left: 0%;
     }
     .first8 {
