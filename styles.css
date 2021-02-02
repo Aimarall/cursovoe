@@ -979,6 +979,25 @@ h4 {
         padding-top: 5px;
         padding-left: 0%;
     }
+    header {
+     
+            margin: 0px;
+            padding: 0px;
+            min-width: 320px;
+            position: relative;
+            overflow-x: hidden;
+     
+       
+            background-image: url(./img/img1.png);
+            background-position: top center;
+            background-attachment: fixed;
+            min-height: 668px;
+            position: relative;
+            -webkit-background-size: cover;
+            background-size: cover;
+           
+     
+    }
     .first1 {
         padding-left: 55px;
     }
