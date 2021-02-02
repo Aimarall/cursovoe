@@ -891,7 +891,7 @@ h4 {
     color: #FFFFFF;
 }
 
-@media (min-width: 420px) {
+@media (max-width: 855px) {
     .second12 {
         flex-direction: column;
     }
