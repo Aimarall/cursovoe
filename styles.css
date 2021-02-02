@@ -891,7 +891,7 @@ h4 {
     color: #FFFFFF;
 }
 
-@media (max-width: 855px) {
+@media (max-width: 1255px) {
     .second12 {
         flex-direction: column;
     }
@@ -997,7 +997,7 @@ h4 {
             -webkit-background-size: cover;
             background-size: cover;
            
-     
+       
     }
     .first1 {
         padding-left: 55px;
@@ -1028,9 +1028,9 @@ h4 {
         margin-left: 23px;
     }
     .first12 {
-        margin-right: 100px;
+        margin-right: 80px;
         margin-top: 30px;
-        margin-bottom: 200px;
+        margin-bottom: 150px;
     }
     .first7 {
         padding-top: 240px;
@@ -1047,7 +1047,7 @@ h4 {
         border: none;
     }
     .second1 {
-        margin-top: 500px;
+        
         background: #252B42;
     }
 
