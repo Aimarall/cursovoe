@@ -170,8 +170,9 @@ li a {
     background: transparent;
  }
  .first10:hover {
-    color: black;
-    background-color: rgb(250, 250, 250);
+     border: none;
+    color: rgb(255, 255, 255);
+    background: #8b671f
  }
  .first11 {
      margin-left: 250px;
@@ -891,6 +892,9 @@ h4 {
 }
 
 @media (max-width: 855px) {
+    body {
+        margin: 0%;
+    }
     .second12 {
         flex-direction: column;
     }
@@ -1032,17 +1036,11 @@ h4 {
         margin-bottom: 200px;
     }
     .first7 {
-        color: black;
         padding-top: 240px;
         padding-left: 0%;
     }
     .first8 {
-        color: black;
         padding-left: 0%;
-    }
-    .first10 {
-        border: 1px solid black;
-        color: black;
     }
     .first10:hover {
         border: none;
