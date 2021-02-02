@@ -891,10 +891,7 @@ h4 {
     color: #FFFFFF;
 }
 
-@media (max-width: 855px) {
-    body {
-        margin: 0%;
-    }
+@media (min-width: 420px) {
     .second12 {
         flex-direction: column;
     }
@@ -1053,4 +1050,40 @@ h4 {
         margin-top: 500px;
         background: #252B42;
     }
+
+    nav {
+        border-bottom: 0;
+    }
+    nav ul {
+        display: none;
+        height: auto;
+    }
+    nav a#pull {
+        display: block;
+        background-color: #283744;
+        width: 100%;
+        position: relative;
+    }
+    nav a#pull:after {
+        content: "";
+        background: url('./img/img4.png') no-repeat;
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        position: absolute;
+        right: 15px;
+        top: 10px;
+        margin-top: -50px;
+    }
+    nav li {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+    nav li a {
+        border-bottom: 1px solid #576979;
+    }
 }
+/* @media only screen and (max-width: 320px) {
+    
+} */
