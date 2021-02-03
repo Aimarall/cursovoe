@@ -1051,7 +1051,7 @@ h4 {
     }
     nav ul {
         display: none;
-        height: auto;
+       
     }
     nav a#pull {
         display: block;
@@ -1078,49 +1078,9 @@ h4 {
     nav li a {
         border-bottom: 1px solid #576979;
     }
+    
 }
-/*
+
 @media only screen and (min-width: 1125px) {
-    nav a#pull:after {
-        content: "";
-        background: url('./img/img4.png') no-repeat;
-        width: 30px;
-        height: 30px;
-        display: inline-block;
-        position: absolute;
-        right: 15px;
-        top: 10px;
-        margin-top: -50px;
-    }
-    .seventh1 {
-        margin: 0px;
-        padding: 0px;
-        min-width: 320px;
-        position: relative;
-        overflow-x: hidden;
-        
-        background-image: url(./img/img6.png);
-        background-position: top center;
-        background-attachment: fixed;
-        min-height: 668px;
-        position: relative;
-        -webkit-background-size: cover;
-        background-size: cover;
-        margin-left: -300px;
-    }
-    header {
-        margin: 0px;
-        padding: 0px;
-        min-width: 320px;
-        position: relative;
-        height: 1400px;
-     
-        background-image: url(./img/img1.png);
-        background-position: top center;
-        background-attachment: fixed;
-        min-height: 668px;
-        position: relative;
-        -webkit-background-size: cover;
-        background-size: cover; 
-    }
-}  */
+
+}  
