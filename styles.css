@@ -17,7 +17,7 @@ body{
 
 
 header { 
-    height: 975px;
+    height: 1000px;
     background: url(./img/img1.png) no-repeat;
     -moz-background-size: 100%; /* Firefox 3.6+ */
     -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
@@ -189,7 +189,7 @@ li a {
 
     position: static;
     width: 300px;
-    height: 589px;
+    height: 573px;
     left: 0px;
     top: 0px;
 
@@ -201,7 +201,7 @@ li a {
     flex-grow: 0;
     
     margin-right: 280px;
-    margin-top: -550px;
+    margin-top: -580px;
     float: right;
 }
 .first14 {
@@ -282,7 +282,7 @@ li a {
 
 
 .second1 {
-    margin-top: -50px;
+    margin-top: -180px;
     background: #252B42;
 }
 .second2 {
@@ -322,7 +322,39 @@ p {
     width: 350px;
     background-color: rgb(255, 255, 255);
     margin: 20px;
+
+     
 }
+
+/* div:hover {
+     box-shadow: 0 0 10px rgba(0, 134, 175, 0.3);
+
+    transition: transform 2s ease-in 3s, box-shadow 1s;
+    transition-timing-function: ease-in-out;
+
+    transform: rotate(15deg);
+    transform-origin: 40% 30%;
+    transform: translate(-5px, 50px);
+}
+
+
+.rotate:hover {
+    transform: rotate(15deg);
+    transform-origin: 40% 30%;
+}
+.translate:hover {
+    transform: translate(-5px, 50px);
+}
+.scale:hover {
+    transform: scale(0.5, 0.9);
+}
+.skew {
+    transform: skew(6deg, 9deg);
+} */
+
+
+
+
 .second5 {
     height: 80px;
     border-radius: 8px;
@@ -333,6 +365,13 @@ p {
     background-color: rgb(255, 220, 226);
     display: flex;
      margin-bottom: 30px;
+}
+.second4:hover {
+    box-shadow: 0 0 0 7px rgba(255, 97, 234, 0.3);
+   
+    transition: transform 0.5s ease-in 0.5s, box-shadow 1s;
+     
+    transform: translate(-5px, 20px);
 }
 .second7 {
     font-family: Open Sans;
@@ -423,6 +462,11 @@ p {
     margin-right: auto;
     margin-top: 30px;
 }
+.third5:hover {
+    transition: transform 0.5s ease-in 0.5s, box-shadow 1s;
+     
+    transform: translate(-5px, 30px);
+}
 .third6 {
     margin-top: -140px;
     width: 100%;
@@ -468,6 +512,13 @@ p {
     width: 250px;
     padding: 35px 25px 10px 29px;
     background-color: rgb(251, 254, 255);
+}
+.fourth4:hover {
+    box-shadow: 0 0 0 7px rgba(1, 119, 119, 0.3);
+   
+    transition: transform 0.5s ease-in 0.5s, box-shadow 1s;
+     
+    transform: translate(-5px, 20px);
 }
 .fourth5 {
     width: 227px;
@@ -563,6 +614,11 @@ p {
 .sixth1 {
     margin-top: 100px;
     margin: 27px;
+}
+.sixth1:hover {
+    transition: transform 0.5s ease-in 0.5s, box-shadow 1s;
+     
+    transform: translate(-5px, 20px);
 }
 .sixth2 {
     width: 330px;
@@ -713,7 +769,7 @@ button {
     border: none;
 }
 button:hover {
-    transition: 0.3s;
+    transition: 0.5s;
     background: #8b671f;
 }
 
@@ -1090,6 +1146,9 @@ h4 {
     }
     #first5 {
         display: none;
+    }
+    .second13 {
+        padding-top: 200px;
     }
     
 }
