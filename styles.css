@@ -325,36 +325,6 @@ p {
 
      
 }
-
-/* div:hover {
-     box-shadow: 0 0 10px rgba(0, 134, 175, 0.3);
-
-    transition: transform 2s ease-in 3s, box-shadow 1s;
-    transition-timing-function: ease-in-out;
-
-    transform: rotate(15deg);
-    transform-origin: 40% 30%;
-    transform: translate(-5px, 50px);
-}
-
-
-.rotate:hover {
-    transform: rotate(15deg);
-    transform-origin: 40% 30%;
-}
-.translate:hover {
-    transform: translate(-5px, 50px);
-}
-.scale:hover {
-    transform: scale(0.5, 0.9);
-}
-.skew {
-    transform: skew(6deg, 9deg);
-} */
-
-
-
-
 .second5 {
     height: 80px;
     border-radius: 8px;
@@ -952,8 +922,17 @@ h4 {
 
 
 
-
 @media screen and (max-width: 1255px) {
+
+  
+
+
+
+
+
+
+
+
     .second12 {
         flex-direction: column;
     }
@@ -961,7 +940,9 @@ h4 {
         height: 200px;
     }
     .third5 {
-        width: 360px;
+        text-align: center;
+        width: 100%;
+        height: auto;
     }
     .third6 {
         height: 180px;
@@ -1150,6 +1131,9 @@ h4 {
     .second13 {
         padding-top: 200px;
     }
+
+
+    
     
 }
 
