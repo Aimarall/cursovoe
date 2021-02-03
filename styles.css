@@ -15,6 +15,7 @@ body{
 }
 
 
+
 header { 
     height: 975px;
     background: url(./img/img1.png) no-repeat;
@@ -712,6 +713,7 @@ button {
     border: none;
 }
 button:hover {
+    transition: 0.3s;
     background: #8b671f;
 }
 
@@ -891,7 +893,11 @@ h4 {
     color: #FFFFFF;
 }
 
-@media (max-width: 1255px) {
+
+
+
+
+@media screen and (max-width: 1255px) {
     .second12 {
         flex-direction: column;
     }
@@ -899,7 +905,7 @@ h4 {
         height: 200px;
     }
     .third5 {
-        width: 350px;
+        width: 360px;
     }
     .third6 {
         height: 180px;
@@ -964,6 +970,7 @@ h4 {
         padding-top: 60px;
     }
     .glubina {
+        width: 100%;
         flex-direction: column;
     }
     .button-7 {
@@ -1078,9 +1085,12 @@ h4 {
     nav li a {
         border-bottom: 1px solid #576979;
     }
+    #first4 {
+        display: none;
+    }
+    #first5 {
+        display: none;
+    }
     
 }
 
-@media only screen and (min-width: 1125px) {
-
-}  
