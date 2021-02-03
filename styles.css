@@ -907,6 +907,9 @@ h4 {
     .fourth11 {
         flex-direction: column;
     }
+    .fourth1 {
+        margin-top: 250px;
+    }
     .sixth7 {
         position: relative;
         flex-direction: column;
@@ -1017,12 +1020,11 @@ h4 {
         margin-top: 50px;
     }
     .first11 {
-       
         margin-left: 23px;
     }
     .first12 {
-        margin-right: 80px;
-        margin-top: 30px;
+        margin-right: 160px;
+        margin-top: 70px;
         margin-bottom: 150px;
     }
     .first7 {
@@ -1077,6 +1079,48 @@ h4 {
         border-bottom: 1px solid #576979;
     }
 }
-/* @media only screen and (max-width: 320px) {
-    
-} */
+/*
+@media only screen and (min-width: 1125px) {
+    nav a#pull:after {
+        content: "";
+        background: url('./img/img4.png') no-repeat;
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        position: absolute;
+        right: 15px;
+        top: 10px;
+        margin-top: -50px;
+    }
+    .seventh1 {
+        margin: 0px;
+        padding: 0px;
+        min-width: 320px;
+        position: relative;
+        overflow-x: hidden;
+        
+        background-image: url(./img/img6.png);
+        background-position: top center;
+        background-attachment: fixed;
+        min-height: 668px;
+        position: relative;
+        -webkit-background-size: cover;
+        background-size: cover;
+        margin-left: -300px;
+    }
+    header {
+        margin: 0px;
+        padding: 0px;
+        min-width: 320px;
+        position: relative;
+        height: 1400px;
+     
+        background-image: url(./img/img1.png);
+        background-position: top center;
+        background-attachment: fixed;
+        min-height: 668px;
+        position: relative;
+        -webkit-background-size: cover;
+        background-size: cover; 
+    }
+}  */
