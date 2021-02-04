@@ -150,7 +150,7 @@ li a {
     flex-grow: 0;
  }
  .first9:focus {
-     outline: none;
+    outline: none;
  }
  .first9:hover {
     background: #8b671f;
@@ -171,14 +171,14 @@ li a {
     background: transparent;
  }
  .first10:hover {
-     border: none;
+    border: none;
     color: rgb(255, 255, 255);
     background: #8b671f
  }
  .first11 {
-     margin-left: 250px;
-     margin-top: 30px;
-     display: flex;
+    margin-left: 250px;
+    margin-top: 30px;
+    display: flex;
  }
  
 .first12 {
@@ -321,9 +321,7 @@ p {
     border-radius: 8px;
     width: 350px;
     background-color: rgb(255, 255, 255);
-    margin: 20px;
-
-     
+    margin: 20px; 
 }
 .second5 {
     height: 80px;
@@ -334,10 +332,10 @@ p {
     padding-top: 30px;
     background-color: rgb(255, 220, 226);
     display: flex;
-     margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 .second4:hover {
-    box-shadow: 0 0 0 7px rgba(255, 97, 234, 0.3);
+    box-shadow: 0 0 0 7px rgba(26, 26, 26, 0.3);
    
     transition: transform 0.5s ease-in 0.5s, box-shadow 1s;
      
@@ -924,15 +922,6 @@ h4 {
 
 @media screen and (max-width: 1255px) {
 
-  
-
-
-
-
-
-
-
-
     .second12 {
         flex-direction: column;
     }
@@ -1067,7 +1056,7 @@ h4 {
         margin-left: 23px;
     }
     .first12 {
-        margin-right: 160px;
+        margin-right: 100px;
         margin-top: 70px;
         margin-bottom: 150px;
     }
