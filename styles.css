@@ -248,8 +248,9 @@ li a {
     padding-bottom: 10px;
 }
 .first17 {
+    border: 1.5px solid gray;
     border-radius: 4px;
-    padding: 14px 44px 15px 30px;
+    padding: 14px 37px 14px 24px;
 }
 .first18 {
     padding: 15px 0 15px 0;
