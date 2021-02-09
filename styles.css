@@ -17,6 +17,8 @@ body{
 
 
 
+  
+
 header { 
     height: 1000px;
     background: url(./img/img1.png) no-repeat;
@@ -657,7 +659,10 @@ p {
     -o-background-size: 100%;
     background-size: 100%; 
 
-    margin-top: -110px;
+    /* margin-top: -110px; */
+}
+#seventhh1 aside{
+    padding-bottom: 0%;
 }
 .seventh2 {
     padding-top: 80px;
@@ -761,6 +766,7 @@ button:hover {
     margin-left: 150px;
     display: flex;
     padding: 70px;
+    margin-top: 0%;
 }
 .eighth2 {
     border: 1px solid rgb(197, 150, 63);
