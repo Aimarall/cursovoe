@@ -25,6 +25,7 @@ header {
     -o-background-size: 100%; /* Opera 9.6+ */
     background-size: 100%; /* Современные браузеры */
     
+    margin-bottom: -20%;
 }
 .first1 {
     padding: 90px 0 0 260px;
