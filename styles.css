@@ -12,7 +12,7 @@ body{
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
-    margin-top: -2%;
+    margin-top: -2%; 
 }
 
 
@@ -909,7 +909,7 @@ h4 {
     color: #FFFFFF;
    
     margin: 0px 0px;
-    padding: 30px 0 0 215px;
+    padding: 30px 0 10px 215px;
 }
 
 .ten1 {
@@ -1036,7 +1036,8 @@ h4 {
         background-size: cover; 
     }
     .first1 {
-        padding-left: 55px;
+        padding-top: -5%;
+        padding-left: 50px;
     }
     .first2 {
         position: static;
@@ -1127,7 +1128,9 @@ h4 {
     .second13 {
         padding-top: 200px;
     }
-
+    #pull {
+        margin-top: -3%;
+    }
 
     
     
