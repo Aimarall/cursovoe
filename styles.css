@@ -232,6 +232,7 @@ li a {
     font-family: 'Libre Franklin', sans-serif;
     padding-top: 7px;
     padding-left: -5px;
+    margin-bottom: -5px;
 }
 .first19 {
     color: gray;
