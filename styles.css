@@ -67,7 +67,7 @@ nav ul li{
 }
 h1{
     color: white;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Martel;
     font-style: normal;
     font-weight: 800;
     font-size: 58px;
@@ -76,9 +76,9 @@ h1{
 
 }
 .section-1-p{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-style: normal;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 500;
     line-height: 30px;
     max-width: 479px;
@@ -94,7 +94,7 @@ h1{
     margin-left: 50%;
 }
 .blue-bt{
-    padding: 10px 36px;
+    padding: 10px 48px;
     border: 1px solid #c9a14b;
     border-radius: 37px;
     background-color: #c9a14b;
@@ -110,8 +110,8 @@ h1{
     outline: none;
 }
 .transparent-bt{
-    
-    padding: 10px 36px;
+    margin-left: 20px;
+    padding: 10px 48px;
     border: 1px solid #ffffff;
     border-radius: 37px;
     background-color: transparent;
@@ -985,15 +985,38 @@ hr{
 .eighth5 {
    margin-left: -15%;
 }
+.button-6 {
+    margin-top: -28px;
+}
 
 
 @media(max-width:860px) {
+    .section-4 {
+        margin-top: 200px;
+    }
     .example1 {
         flex-direction: column;
     }
     .example5 {
         display: block;
         line-height: 15px;
+    }
+    .header-div-6 {
+        padding: 50px 30px;
+    }
+    .button-6 {
+        margin: 20px 0;
+    }
+    .third4 {
+        height: 200px;
+    }
+    .third5 {
+        text-align: center;
+        width: 100%;
+        height: auto;
+    }
+    .third6 {
+        height: 180px;
     }
 }
 @media(max-width:640px) {
