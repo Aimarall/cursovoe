@@ -137,6 +137,7 @@ button:hover {
     border: 1px solid #493a9e;
     background-color: #1c285a;
 }
+
 .section-1-sec-div{
     width: 328px;
     height: 619px;
@@ -266,7 +267,7 @@ button:hover {
     font-weight: 700;
     font-size: 40px;
     line-height: 57px;
-    color: #252b42;
+    color: #fafafa;
     margin-top: 0;
     margin-bottom: 10px;
 
@@ -279,7 +280,7 @@ button:hover {
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
-    color: #737373;
+    color: #d1d1d1;
     text-align: center;
     
     
