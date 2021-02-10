@@ -71,6 +71,7 @@ nav ul li{
     color: #dfdfdf;
 }
 h1{
+    color: white;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -86,7 +87,7 @@ h1{
     font-weight: 500;
     line-height: 30px;
     max-width: 479px;
-    color: #737373;
+    color: #e7e7e7;
     
 
 }
@@ -95,9 +96,9 @@ h1{
 }
 .blue-bt{
     padding: 10px 36px;
-    border: 1px solid #00A0C1;
+    border: 1px solid #c9a14b;
     border-radius: 37px;
-    background-color: #00A0C1;
+    background-color: #c9a14b;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
@@ -112,16 +113,29 @@ h1{
 .transparent-bt{
     
     padding: 10px 36px;
-    border: 1px solid #00A0C1;
+    border: 1px solid #ffffff;
     border-radius: 37px;
     background-color: transparent;
-    color: #00A0C1;
+    color: #ffffff;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 28px;
 
+}
+.transparent-bt:focus {
+    outline: none;
+}
+button:hover {
+    transition: 0.3s;
+    border: 1px solid #9b7b35;
+    background-color: #9b7b35;
+}
+.book-bt:hover {
+    transition: 0.3s;
+    border: 1px solid #493a9e;
+    background-color: #1c285a;
 }
 .section-1-sec-div{
     width: 328px;
@@ -208,7 +222,7 @@ h1{
     color: #737373;
 }
 .book-bt{
-    background-color: #ffa62b;
+    background-color: #493a9e;
     border-radius: 5px;
     width: 248px;
     height: 58px;
