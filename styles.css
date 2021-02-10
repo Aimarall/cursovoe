@@ -819,6 +819,50 @@ hr{
     line-height: 28px;
     color: #bdbdbd
 }
+
+.example1 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 38px 10px;
+}
+.example2 {
+    padding-right: 579px;
+}
+.example3 {
+    border: 1px solid rgb(197, 150, 63);
+    background-color: rgb(197, 150, 63);
+    color: white;
+    height: 57px;
+    width: 170px;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-top: 18px;
+}
+.example4 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    letter-spacing: 0.1px;
+
+    color: #252B42;
+    line-height: 20px;
+}
+.example5 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+
+    letter-spacing: 0.2px;
+
+    color: #737373;
+    line-height: 8px;
+}
 .first-2 {
     text-align: center;
     max-width: 100%;
@@ -828,6 +872,60 @@ hr{
     color: white;
     background-color: rgb(0, 114, 181);
 }
+
+/* 
+.eighth1 {
+    text-align: center;
+    max-width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 637px;
+    color: white;
+    background-color: rgb(255, 255, 255);
+     */
+    /* background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    display: flex;
+    padding: 70px;
+    margin-top: 0%;
+    width: 100%; */
+/* }
+.eighth2 {
+    border: 1px solid rgb(197, 150, 63);
+    margin-top: -70px;
+    margin-right: -450px;
+    margin-left: auto;
+    background-color: rgb(197, 150, 63);
+    color: white;
+    height: 57px;
+    width: 170px;
+    font-size: 18px;
+    border-radius: 7px;
+    float: right;
+}
+.eighth3 {
+    
+    text-align: center;
+}
+.eighth4 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+
+    letter-spacing: 0.2px;
+
+    color: #737373;
+    line-height: 8px;
+    text-align: center;
+    margin-left: -7%;
+}
+.eighth5 {
+   margin-left: -15%;
+} */
+
+
 
 @media(max-width:640px){
 
