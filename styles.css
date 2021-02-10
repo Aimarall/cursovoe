@@ -127,12 +127,25 @@ h1{
 button:hover {
     transition: 0.3s;
     border: 1px solid #9b7b35;
-    background-color: #9b7b35;
+    background-color: #80642a;
+}
+.button-6:hover {
+    transition: 0.3s;
+    border: none;
+    background-color: #80642a;
+}
+.button-7:hover {
+    transition: 0.3s;
+    background-color: #80642a;
 }
 .book-bt:hover {
     transition: 0.3s;
     border: 1px solid #493a9e;
     background-color: #1c285a;
+}
+button.button-7 {
+    color: white;
+    background-color: #b3882e;
 }
 
 .section-1-sec-div{
@@ -663,6 +676,8 @@ ol{
     font-size: 14px;
     line-height: 28px;
     color: #bdbdbd;
+
+    margin-top: 10px;
 }
 .section-6-h2{
     font-family:'Montserrat', sans-serif;
@@ -681,7 +696,7 @@ ol{
     margin: 0;
 }
 .button-6{
-    background-color: #ffa62b;
+    background-color: #9b7b35;
     border-radius: 5px;
     width: 218px;
     height: 58px;
