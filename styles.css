@@ -864,16 +864,68 @@ hr{
     line-height: 8px;
 }
 .first-2 {
-    text-align: center;
     max-width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-right: 627px;
     color: white;
     background-color: rgb(0, 114, 181);
 }
+.first-3 {
+   padding-left: 150px;
+}
 
-/* 
+
+.third1 {
+    margin-top: -40px;
+    padding-bottom: 150px;
+}
+.third2 {
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+
+    text-align: center;
+    padding-top: 130px;
+}
+.third3 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 23px;
+    
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+
+    padding-top: -15px;
+    text-align: center;
+}
+.third4 {
+    width: 100%;
+    height: 350px;
+    background: #252B42;
+}
+.third5 {
+    display: block;
+    padding-bottom: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.third6 {
+    margin-top: -140px;
+    width: 100%;
+    height: 550px;
+    background-color: rgb(13, 54, 78);
+}
+
 .eighth1 {
     text-align: center;
     max-width: 100%;
@@ -882,14 +934,14 @@ hr{
     padding-right: 637px;
     color: white;
     background-color: rgb(255, 255, 255);
-     */
+     
     /* background-color: rgb(255, 255, 255);
     margin-bottom: 20px;
     display: flex;
     padding: 70px;
     margin-top: 0%;
-    width: 100%; */
-/* }
+    width: 100%;*/
+}
 .eighth2 {
     border: 1px solid rgb(197, 150, 63);
     margin-top: -70px;
@@ -904,7 +956,16 @@ hr{
     float: right;
 }
 .eighth3 {
-    
+    font-family: Martel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+
+    letter-spacing: 0.1px;
+
+    color: #252B42;
+    line-height: 20px;
     text-align: center;
 }
 .eighth4 {
@@ -923,15 +984,24 @@ hr{
 }
 .eighth5 {
    margin-left: -15%;
-} */
-
-
-
-@media(max-width:640px){
-
 }
 
-@media(max-width:1044px){
+
+@media(max-width:860px) {
+    .example1 {
+        flex-direction: column;
+    }
+    .example5 {
+        display: block;
+        line-height: 15px;
+    }
+}
+@media(max-width:640px) {
+    .first-3 {
+        display: flex;
+    }
+}
+@media(max-width:1044px) {
     .heder-div-1{
         display: flex;
         flex-direction: column;
