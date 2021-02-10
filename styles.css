@@ -11,9 +11,6 @@ body{
     width: 100%;
     max-width: 1048px;
     margin: 0 auto;
-    
-    
-
      
 }
 .wi-h{
@@ -359,7 +356,7 @@ button:hover {
     
 }
 .section-3{
-    background-color: #392c86;
+    background-color: #252B42;
     height: 100%;
     display: flex;
     align-items: center;
@@ -378,7 +375,7 @@ button:hover {
     line-height: 57px;
     width: 461px;
     margin: 0 auto;
-    color: #252b42;
+    color: #ffffff;
     padding-top: 80px;
 
 }
@@ -387,7 +384,7 @@ button:hover {
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
-    color: #737373;
+    color: #dddddd;
     max-width: 470px;
     margin-top: 10px;
     margin-bottom: 0;
@@ -440,14 +437,14 @@ button:hover {
     line-height: 57px;
     width: 461px;
     margin: 0 auto;
-    color: #252b42;
+    color: #ffffff;
 }
 .section-4-p{
     font-family:'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
-    color: #737373;
+    color: #dfdfdf;
     max-width: 470px;
     margin-top: 10px;
     margin-bottom: 0;
@@ -524,7 +521,7 @@ ol{
     line-height: 57px;
     width: 461px;
     margin: 0 auto;
-    color: #252b42;
+    color: #ffffff;
 
 }
 .section-5-p{
@@ -533,7 +530,7 @@ ol{
         font-weight: 500;
         font-size: 14px;
         line-height: 20px;
-        color: #737373;
+        color: #dddddd;
         max-width: 470px;
         margin-top: 10px;
         margin-bottom: 0;
@@ -673,14 +670,14 @@ ol{
     line-height: 57px;
     max-width: 461px;
     margin: 0;
-    color: #252b42;
+    color: #ffffff;
 }
 .section-6-h5{
     font-family:'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 16px;
     line-height: 24px;
-    color: #252b42;
+    color: #f1f1f1;
     margin: 0;
 }
 .button-6{
